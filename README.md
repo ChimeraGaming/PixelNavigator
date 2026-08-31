@@ -1,6 +1,8 @@
 # Current Progres:
 - GBA EXPOSED!
 <img width="988" height="1039" alt="image" src="https://github.com/user-attachments/assets/9fe51261-a4bd-47d5-bacf-80a419ed3a1f" />
+<img width="932" height="943" alt="image" src="https://github.com/user-attachments/assets/e407a723-0658-41df-8afa-9f933c187f9b" />
+
 
 
 # Pixel Navigator
