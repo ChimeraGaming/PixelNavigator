@@ -1,3 +1,8 @@
+# Current Progres:
+- GBA EXPOSED!
+<img width="988" height="1039" alt="image" src="https://github.com/user-attachments/assets/9fe51261-a4bd-47d5-bacf-80a419ed3a1f" />
+
+
 # Pixel Navigator
 
 [![Release v0](https://img.shields.io/badge/release-v0-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/PixelNavigator/releases)
