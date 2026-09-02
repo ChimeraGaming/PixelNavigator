@@ -5,6 +5,10 @@
 <img width="1009" height="1010" alt="image" src="https://github.com/user-attachments/assets/c59e1e96-ba1a-4937-ba1b-b23f5e42955f" />
 <img width="808" height="851" alt="image" src="https://github.com/user-attachments/assets/9ab01091-01bd-4b70-9e26-ba325966c16e" />
 
+Working on other games now that pokemon firered / emerald setup and tools have been built.
+<img width="799" height="824" alt="image" src="https://github.com/user-attachments/assets/27f28111-a235-4cb0-8a6a-2f562d34ef2a" />
+
+
 
 
 
