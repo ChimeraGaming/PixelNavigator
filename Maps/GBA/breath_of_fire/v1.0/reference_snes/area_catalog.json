@@ -1,0 +1,3085 @@
+{
+  "schema": 1,
+  "areas": [
+    {
+      "id": "world:1",
+      "name": "World",
+      "file": "maps/world/map.png",
+      "source": "001_world.webp",
+      "sourceBounds": [
+        0,
+        0,
+        5006,
+        5417
+      ],
+      "width": 5006,
+      "height": 5417
+    },
+    {
+      "id": "world_in_game_map:1",
+      "name": "World In Game Map",
+      "file": "maps/world_in_game_map/map_001.png",
+      "source": "002_world_in_game_map.webp",
+      "sourceBounds": [
+        0,
+        0,
+        406,
+        406
+      ],
+      "width": 406,
+      "height": 406
+    },
+    {
+      "id": "undersea:1",
+      "name": "Undersea",
+      "file": "maps/undersea/map_001.png",
+      "source": "003_undersea.webp",
+      "sourceBounds": [
+        0,
+        0,
+        2358,
+        1874
+      ],
+      "width": 2358,
+      "height": 1874
+    },
+    {
+      "id": "drogen:1",
+      "name": "Drogen",
+      "file": "maps/drogen/map_001.png",
+      "source": "004_drogen.webp",
+      "sourceBounds": [
+        0,
+        0,
+        864,
+        706
+      ],
+      "width": 864,
+      "height": 706
+    },
+    {
+      "id": "drogen:2",
+      "name": "Drogen",
+      "file": "maps/drogen/map_002.png",
+      "source": "004_drogen.webp",
+      "sourceBounds": [
+        595,
+        147,
+        839,
+        355
+      ],
+      "width": 244,
+      "height": 208
+    },
+    {
+      "id": "camlon_before:1",
+      "name": "Camlon Before",
+      "file": "maps/camlon_before/map_001.png",
+      "source": "005_camlon_before.webp",
+      "sourceBounds": [
+        0,
+        0,
+        574,
+        2081
+      ],
+      "width": 574,
+      "height": 2081
+    },
+    {
+      "id": "camlon_before:2",
+      "name": "Camlon Before",
+      "file": "maps/camlon_before/map_002.png",
+      "source": "005_camlon_before.webp",
+      "sourceBounds": [
+        269,
+        108,
+        513,
+        316
+      ],
+      "width": 244,
+      "height": 208
+    },
+    {
+      "id": "nanai:1",
+      "name": "Nanai",
+      "file": "maps/nanai/map_001.png",
+      "source": "006_nanai.webp",
+      "sourceBounds": [
+        0,
+        0,
+        822,
+        1310
+      ],
+      "width": 822,
+      "height": 1310
+    },
+    {
+      "id": "nanai:2",
+      "name": "Nanai",
+      "file": "maps/nanai/map_002.png",
+      "source": "006_nanai.webp",
+      "sourceBounds": [
+        710,
+        0,
+        1581,
+        1758
+      ],
+      "width": 871,
+      "height": 1758
+    },
+    {
+      "id": "nanai:3",
+      "name": "Nanai",
+      "file": "maps/nanai/map_003.png",
+      "source": "006_nanai.webp",
+      "sourceBounds": [
+        1089,
+        21,
+        1285,
+        224
+      ],
+      "width": 196,
+      "height": 203
+    },
+    {
+      "id": "nanai:4",
+      "name": "Nanai",
+      "file": "maps/nanai/map_004.png",
+      "source": "006_nanai.webp",
+      "sourceBounds": [
+        256,
+        821,
+        500,
+        1029
+      ],
+      "width": 244,
+      "height": 208
+    },
+    {
+      "id": "nanai:5",
+      "name": "Nanai",
+      "file": "maps/nanai/map_005.png",
+      "source": "006_nanai.webp",
+      "sourceBounds": [
+        531,
+        850,
+        685,
+        996
+      ],
+      "width": 154,
+      "height": 146
+    },
+    {
+      "id": "nanai:6",
+      "name": "Nanai",
+      "file": "maps/nanai/map_006.png",
+      "source": "006_nanai.webp",
+      "sourceBounds": [
+        376,
+        1060,
+        652,
+        1300
+      ],
+      "width": 276,
+      "height": 240
+    },
+    {
+      "id": "nanai:7",
+      "name": "Nanai",
+      "file": "maps/nanai/map_007.png",
+      "source": "006_nanai.webp",
+      "sourceBounds": [
+        1,
+        1310,
+        713,
+        1561
+      ],
+      "width": 712,
+      "height": 251
+    },
+    {
+      "id": "nanai:8",
+      "name": "Nanai",
+      "file": "maps/nanai/map_008.png",
+      "source": "006_nanai.webp",
+      "sourceBounds": [
+        3,
+        1562,
+        231,
+        1780
+      ],
+      "width": 228,
+      "height": 218
+    },
+    {
+      "id": "nanai:9",
+      "name": "Nanai",
+      "file": "maps/nanai/map_009.png",
+      "source": "006_nanai.webp",
+      "sourceBounds": [
+        235,
+        1562,
+        463,
+        1780
+      ],
+      "width": 228,
+      "height": 218
+    },
+    {
+      "id": "winlan:1",
+      "name": "Winlan",
+      "file": "maps/winlan/map_001.png",
+      "source": "007_winlan.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1306,
+        1522
+      ],
+      "width": 1306,
+      "height": 1522
+    },
+    {
+      "id": "winlan:2",
+      "name": "Winlan",
+      "file": "maps/winlan/map_002.png",
+      "source": "007_winlan.webp",
+      "sourceBounds": [
+        1114,
+        24,
+        1268,
+        314
+      ],
+      "width": 154,
+      "height": 290
+    },
+    {
+      "id": "winlan:3",
+      "name": "Winlan",
+      "file": "maps/winlan/map_003.png",
+      "source": "007_winlan.webp",
+      "sourceBounds": [
+        804,
+        850,
+        1304,
+        1346
+      ],
+      "width": 500,
+      "height": 496
+    },
+    {
+      "id": "winlan:4",
+      "name": "Winlan",
+      "file": "maps/winlan/map_004.png",
+      "source": "007_winlan.webp",
+      "sourceBounds": [
+        366,
+        859,
+        594,
+        1078
+      ],
+      "width": 228,
+      "height": 219
+    },
+    {
+      "id": "winlan:5",
+      "name": "Winlan",
+      "file": "maps/winlan/map_005.png",
+      "source": "007_winlan.webp",
+      "sourceBounds": [
+        600,
+        883,
+        796,
+        1088
+      ],
+      "width": 196,
+      "height": 205
+    },
+    {
+      "id": "winlan:6",
+      "name": "Winlan",
+      "file": "maps/winlan/map_006.png",
+      "source": "007_winlan.webp",
+      "sourceBounds": [
+        230,
+        1091,
+        458,
+        1521
+      ],
+      "width": 228,
+      "height": 430
+    },
+    {
+      "id": "winlan:7",
+      "name": "Winlan",
+      "file": "maps/winlan/map_007.png",
+      "source": "007_winlan.webp",
+      "sourceBounds": [
+        458,
+        1091,
+        686,
+        1521
+      ],
+      "width": 228,
+      "height": 430
+    },
+    {
+      "id": "winlan:8",
+      "name": "Winlan",
+      "file": "maps/winlan/map_008.png",
+      "source": "007_winlan.webp",
+      "sourceBounds": [
+        686,
+        1347,
+        1458,
+        1838
+      ],
+      "width": 772,
+      "height": 491
+    },
+    {
+      "id": "winlan:9",
+      "name": "Winlan",
+      "file": "maps/winlan/map_009.png",
+      "source": "007_winlan.webp",
+      "sourceBounds": [
+        9,
+        1524,
+        205,
+        1727
+      ],
+      "width": 196,
+      "height": 203
+    },
+    {
+      "id": "winlan:10",
+      "name": "Winlan",
+      "file": "maps/winlan/map_010.png",
+      "source": "007_winlan.webp",
+      "sourceBounds": [
+        213,
+        1522,
+        441,
+        1741
+      ],
+      "width": 228,
+      "height": 219
+    },
+    {
+      "id": "winlan:11",
+      "name": "Winlan",
+      "file": "maps/winlan/map_011.png",
+      "source": "007_winlan.webp",
+      "sourceBounds": [
+        450,
+        1523,
+        678,
+        1710
+      ],
+      "width": 228,
+      "height": 187
+    },
+    {
+      "id": "aura_cave:1",
+      "name": "Aura Cave",
+      "file": "maps/aura_cave/map_001.png",
+      "source": "008_aura_cave.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1450,
+        838
+      ],
+      "width": 1450,
+      "height": 838
+    },
+    {
+      "id": "romero_before:1",
+      "name": "Romero Before",
+      "file": "maps/romero_before/map_001.png",
+      "source": "009_romero_before.webp",
+      "sourceBounds": [
+        0,
+        0,
+        654,
+        1078
+      ],
+      "width": 654,
+      "height": 1078
+    },
+    {
+      "id": "romero_before:2",
+      "name": "Romero Before",
+      "file": "maps/romero_before/map_002.png",
+      "source": "009_romero_before.webp",
+      "sourceBounds": [
+        712,
+        12,
+        908,
+        215
+      ],
+      "width": 196,
+      "height": 203
+    },
+    {
+      "id": "romero_before:3",
+      "name": "Romero Before",
+      "file": "maps/romero_before/map_003.png",
+      "source": "009_romero_before.webp",
+      "sourceBounds": [
+        478,
+        222,
+        950,
+        1110
+      ],
+      "width": 472,
+      "height": 888
+    },
+    {
+      "id": "romero_before:4",
+      "name": "Romero Before",
+      "file": "maps/romero_before/map_004.png",
+      "source": "009_romero_before.webp",
+      "sourceBounds": [
+        247,
+        903,
+        475,
+        1090
+      ],
+      "width": 228,
+      "height": 187
+    },
+    {
+      "id": "romero_before:5",
+      "name": "Romero Before",
+      "file": "maps/romero_before/map_005.png",
+      "source": "009_romero_before.webp",
+      "sourceBounds": [
+        464,
+        1086,
+        885,
+        1457
+      ],
+      "width": 421,
+      "height": 371
+    },
+    {
+      "id": "romero_before:6",
+      "name": "Romero Before",
+      "file": "maps/romero_before/map_006.png",
+      "source": "009_romero_before.webp",
+      "sourceBounds": [
+        5,
+        1091,
+        233,
+        1310
+      ],
+      "width": 228,
+      "height": 219
+    },
+    {
+      "id": "romero_before:7",
+      "name": "Romero Before",
+      "file": "maps/romero_before/map_007.png",
+      "source": "009_romero_before.webp",
+      "sourceBounds": [
+        234,
+        1091,
+        462,
+        1310
+      ],
+      "width": 228,
+      "height": 219
+    },
+    {
+      "id": "karma_forest:1",
+      "name": "Karma Forest",
+      "file": "maps/karma_forest/map_001.png",
+      "source": "010_karma_forest.webp",
+      "sourceBounds": [
+        0,
+        0,
+        2050,
+        1538
+      ],
+      "width": 2050,
+      "height": 1538
+    },
+    {
+      "id": "karma_tower:1",
+      "name": "Karma Tower",
+      "file": "maps/karma_tower/map_001.png",
+      "source": "011_karma_tower.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1294,
+        1806
+      ],
+      "width": 1294,
+      "height": 1806
+    },
+    {
+      "id": "karma_tower:2",
+      "name": "Karma Tower",
+      "file": "maps/karma_tower/map_002.png",
+      "source": "011_karma_tower.webp",
+      "sourceBounds": [
+        376,
+        39,
+        652,
+        435
+      ],
+      "width": 276,
+      "height": 396
+    },
+    {
+      "id": "karma_tower:3",
+      "name": "Karma Tower",
+      "file": "maps/karma_tower/map_003.png",
+      "source": "011_karma_tower.webp",
+      "sourceBounds": [
+        111,
+        47,
+        371,
+        435
+      ],
+      "width": 260,
+      "height": 388
+    },
+    {
+      "id": "karma_tower:4",
+      "name": "Karma Tower",
+      "file": "maps/karma_tower/map_004.png",
+      "source": "011_karma_tower.webp",
+      "sourceBounds": [
+        138,
+        878,
+        398,
+        1266
+      ],
+      "width": 260,
+      "height": 388
+    },
+    {
+      "id": "karma_tower:5",
+      "name": "Karma Tower",
+      "file": "maps/karma_tower/map_005.png",
+      "source": "011_karma_tower.webp",
+      "sourceBounds": [
+        412,
+        878,
+        672,
+        1266
+      ],
+      "width": 260,
+      "height": 388
+    },
+    {
+      "id": "karma_tower:6",
+      "name": "Karma Tower",
+      "file": "maps/karma_tower/map_006.png",
+      "source": "011_karma_tower.webp",
+      "sourceBounds": [
+        174,
+        1326,
+        653,
+        1766
+      ],
+      "width": 479,
+      "height": 440
+    },
+    {
+      "id": "karma_tower:7",
+      "name": "Karma Tower",
+      "file": "maps/karma_tower/map_007.png",
+      "source": "011_karma_tower.webp",
+      "sourceBounds": [
+        672,
+        1589,
+        900,
+        1739
+      ],
+      "width": 228,
+      "height": 150
+    },
+    {
+      "id": "camlon_after:1",
+      "name": "Camlon After",
+      "file": "maps/camlon_after/map_001.png",
+      "source": "012_camlon_after.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1094,
+        1742
+      ],
+      "width": 1094,
+      "height": 1742
+    },
+    {
+      "id": "camlon_after:2",
+      "name": "Camlon After",
+      "file": "maps/camlon_after/map_002.png",
+      "source": "012_camlon_after.webp",
+      "sourceBounds": [
+        786,
+        25,
+        1030,
+        233
+      ],
+      "width": 244,
+      "height": 208
+    },
+    {
+      "id": "camlon_after:3",
+      "name": "Camlon After",
+      "file": "maps/camlon_after/map_003.png",
+      "source": "012_camlon_after.webp",
+      "sourceBounds": [
+        878,
+        1095,
+        1032,
+        1241
+      ],
+      "width": 154,
+      "height": 146
+    },
+    {
+      "id": "camlon_after:4",
+      "name": "Camlon After",
+      "file": "maps/camlon_after/map_004.png",
+      "source": "012_camlon_after.webp",
+      "sourceBounds": [
+        845,
+        1404,
+        1073,
+        1554
+      ],
+      "width": 228,
+      "height": 150
+    },
+    {
+      "id": "camlon_after:5",
+      "name": "Camlon After",
+      "file": "maps/camlon_after/map_005.png",
+      "source": "012_camlon_after.webp",
+      "sourceBounds": [
+        587,
+        1464,
+        815,
+        1716
+      ],
+      "width": 228,
+      "height": 252
+    },
+    {
+      "id": "tantar_tuntar_before:1",
+      "name": "Tantar Tuntar Before",
+      "file": "maps/tantar_tuntar_before/map_001.png",
+      "source": "013_tantar_tuntar_before.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1346,
+        1489
+      ],
+      "width": 1346,
+      "height": 1489
+    },
+    {
+      "id": "tantar_tuntar_before:2",
+      "name": "Tantar Tuntar Before",
+      "file": "maps/tantar_tuntar_before/map_002.png",
+      "source": "013_tantar_tuntar_before.webp",
+      "sourceBounds": [
+        1165,
+        607,
+        1319,
+        897
+      ],
+      "width": 154,
+      "height": 290
+    },
+    {
+      "id": "tantar_tuntar_before:3",
+      "name": "Tantar Tuntar Before",
+      "file": "maps/tantar_tuntar_before/map_003.png",
+      "source": "013_tantar_tuntar_before.webp",
+      "sourceBounds": [
+        949,
+        660,
+        1145,
+        863
+      ],
+      "width": 196,
+      "height": 203
+    },
+    {
+      "id": "tantar_tuntar_before:4",
+      "name": "Tantar Tuntar Before",
+      "file": "maps/tantar_tuntar_before/map_004.png",
+      "source": "013_tantar_tuntar_before.webp",
+      "sourceBounds": [
+        232,
+        804,
+        460,
+        1023
+      ],
+      "width": 228,
+      "height": 219
+    },
+    {
+      "id": "forest_of_despair:1",
+      "name": "Forest Of Despair",
+      "file": "maps/forest_of_despair/map_001.png",
+      "source": "014_forest_of_despair.webp",
+      "sourceBounds": [
+        0,
+        0,
+        2056,
+        1245
+      ],
+      "width": 2056,
+      "height": 1245
+    },
+    {
+      "id": "cleansing_water_cave:1",
+      "name": "Cleansing Water Cave",
+      "file": "maps/cleansing_water_cave/map_001.png",
+      "source": "015_cleansing_water_cave.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1440,
+        837
+      ],
+      "width": 1440,
+      "height": 837
+    },
+    {
+      "id": "romero_after:1",
+      "name": "Romero After",
+      "file": "maps/romero_after/map_001.png",
+      "source": "016_romero_after.webp",
+      "sourceBounds": [
+        0,
+        0,
+        654,
+        1078
+      ],
+      "width": 654,
+      "height": 1078
+    },
+    {
+      "id": "romero_after:2",
+      "name": "Romero After",
+      "file": "maps/romero_after/map_002.png",
+      "source": "016_romero_after.webp",
+      "sourceBounds": [
+        681,
+        5,
+        877,
+        208
+      ],
+      "width": 196,
+      "height": 203
+    },
+    {
+      "id": "romero_after:3",
+      "name": "Romero After",
+      "file": "maps/romero_after/map_003.png",
+      "source": "016_romero_after.webp",
+      "sourceBounds": [
+        665,
+        212,
+        893,
+        431
+      ],
+      "width": 228,
+      "height": 219
+    },
+    {
+      "id": "romero_after:4",
+      "name": "Romero After",
+      "file": "maps/romero_after/map_004.png",
+      "source": "016_romero_after.webp",
+      "sourceBounds": [
+        478,
+        434,
+        950,
+        1106
+      ],
+      "width": 472,
+      "height": 672
+    },
+    {
+      "id": "romero_after:5",
+      "name": "Romero After",
+      "file": "maps/romero_after/map_005.png",
+      "source": "016_romero_after.webp",
+      "sourceBounds": [
+        247,
+        903,
+        475,
+        1090
+      ],
+      "width": 228,
+      "height": 187
+    },
+    {
+      "id": "romero_after:6",
+      "name": "Romero After",
+      "file": "maps/romero_after/map_006.png",
+      "source": "016_romero_after.webp",
+      "sourceBounds": [
+        464,
+        1086,
+        885,
+        1452
+      ],
+      "width": 421,
+      "height": 366
+    },
+    {
+      "id": "romero_after:7",
+      "name": "Romero After",
+      "file": "maps/romero_after/map_007.png",
+      "source": "016_romero_after.webp",
+      "sourceBounds": [
+        5,
+        1091,
+        233,
+        1310
+      ],
+      "width": 228,
+      "height": 219
+    },
+    {
+      "id": "romero_after:8",
+      "name": "Romero After",
+      "file": "maps/romero_after/map_008.png",
+      "source": "016_romero_after.webp",
+      "sourceBounds": [
+        234,
+        1091,
+        462,
+        1310
+      ],
+      "width": 228,
+      "height": 219
+    },
+    {
+      "id": "agua:1",
+      "name": "Agua",
+      "file": "maps/agua/map_001.png",
+      "source": "017_agua.webp",
+      "sourceBounds": [
+        227,
+        0,
+        493,
+        285
+      ],
+      "width": 266,
+      "height": 285
+    },
+    {
+      "id": "agua:2",
+      "name": "Agua",
+      "file": "maps/agua/map_002.png",
+      "source": "017_agua.webp",
+      "sourceBounds": [
+        0,
+        66,
+        720,
+        4272
+      ],
+      "width": 720,
+      "height": 4206
+    },
+    {
+      "id": "stone_robot:1",
+      "name": "Stone Robot",
+      "file": "maps/stone_robot/map_001.png",
+      "source": "018_stone_robot.webp",
+      "sourceBounds": [
+        0,
+        0,
+        450,
+        1982
+      ],
+      "width": 450,
+      "height": 1982
+    },
+    {
+      "id": "tantar_tuntar_after:1",
+      "name": "Tantar Tuntar After",
+      "file": "maps/tantar_tuntar_after/map_001.png",
+      "source": "019_tantar_tuntar_after.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1346,
+        1490
+      ],
+      "width": 1346,
+      "height": 1490
+    },
+    {
+      "id": "tantar_tuntar_after:2",
+      "name": "Tantar Tuntar After",
+      "file": "maps/tantar_tuntar_after/map_002.png",
+      "source": "019_tantar_tuntar_after.webp",
+      "sourceBounds": [
+        945,
+        591,
+        1141,
+        794
+      ],
+      "width": 196,
+      "height": 203
+    },
+    {
+      "id": "tantar_tuntar_after:3",
+      "name": "Tantar Tuntar After",
+      "file": "maps/tantar_tuntar_after/map_003.png",
+      "source": "019_tantar_tuntar_after.webp",
+      "sourceBounds": [
+        1162,
+        737,
+        1316,
+        1027
+      ],
+      "width": 154,
+      "height": 290
+    },
+    {
+      "id": "tantar_tuntar_after:4",
+      "name": "Tantar Tuntar After",
+      "file": "maps/tantar_tuntar_after/map_004.png",
+      "source": "019_tantar_tuntar_after.webp",
+      "sourceBounds": [
+        937,
+        795,
+        1149,
+        1223
+      ],
+      "width": 212,
+      "height": 428
+    },
+    {
+      "id": "tantar_tuntar_after:5",
+      "name": "Tantar Tuntar After",
+      "file": "maps/tantar_tuntar_after/map_005.png",
+      "source": "019_tantar_tuntar_after.webp",
+      "sourceBounds": [
+        232,
+        804,
+        460,
+        1023
+      ],
+      "width": 228,
+      "height": 219
+    },
+    {
+      "id": "lake_cave:1",
+      "name": "Lake Cave",
+      "file": "maps/lake_cave/map_001.png",
+      "source": "020_lake_cave.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1914,
+        2358
+      ],
+      "width": 1914,
+      "height": 2358
+    },
+    {
+      "id": "dragon_palace_1:1",
+      "name": "Dragon Palace 1",
+      "file": "maps/dragon_palace_1/map_001.png",
+      "source": "021_dragon_palace_1.webp",
+      "sourceBounds": [
+        0,
+        0,
+        550,
+        400
+      ],
+      "width": 550,
+      "height": 400
+    },
+    {
+      "id": "fairy_woods:1",
+      "name": "Fairy Woods",
+      "file": "maps/fairy_woods/map_001.png",
+      "source": "022_fairy_woods.webp",
+      "sourceBounds": [
+        0,
+        0,
+        357,
+        452
+      ],
+      "width": 357,
+      "height": 452
+    },
+    {
+      "id": "flower_ring:1",
+      "name": "Flower Ring",
+      "file": "maps/flower_ring/map_001.png",
+      "source": "023_flower_ring.webp",
+      "sourceBounds": [
+        0,
+        0,
+        362,
+        378
+      ],
+      "width": 362,
+      "height": 378
+    },
+    {
+      "id": "north_cave:1",
+      "name": "North Cave",
+      "file": "maps/north_cave/map_001.png",
+      "source": "024_north_cave.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1202,
+        1666
+      ],
+      "width": 1202,
+      "height": 1666
+    },
+    {
+      "id": "auria:1",
+      "name": "Auria",
+      "file": "maps/auria/map_001.png",
+      "source": "025_auria.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1234,
+        1776
+      ],
+      "width": 1234,
+      "height": 1776
+    },
+    {
+      "id": "auria:2",
+      "name": "Auria",
+      "file": "maps/auria/map_002.png",
+      "source": "025_auria.webp",
+      "sourceBounds": [
+        1464,
+        19,
+        1693,
+        623
+      ],
+      "width": 229,
+      "height": 604
+    },
+    {
+      "id": "auria:3",
+      "name": "Auria",
+      "file": "maps/auria/map_003.png",
+      "source": "025_auria.webp",
+      "sourceBounds": [
+        1157,
+        35,
+        1385,
+        367
+      ],
+      "width": 228,
+      "height": 332
+    },
+    {
+      "id": "auria:4",
+      "name": "Auria",
+      "file": "maps/auria/map_004.png",
+      "source": "025_auria.webp",
+      "sourceBounds": [
+        1132,
+        389,
+        1408,
+        784
+      ],
+      "width": 276,
+      "height": 395
+    },
+    {
+      "id": "auria:5",
+      "name": "Auria",
+      "file": "maps/auria/map_005.png",
+      "source": "025_auria.webp",
+      "sourceBounds": [
+        1234,
+        626,
+        1717,
+        1776
+      ],
+      "width": 483,
+      "height": 1150
+    },
+    {
+      "id": "auria:6",
+      "name": "Auria",
+      "file": "maps/auria/map_006.png",
+      "source": "025_auria.webp",
+      "sourceBounds": [
+        30,
+        1450,
+        184,
+        1740
+      ],
+      "width": 154,
+      "height": 290
+    },
+    {
+      "id": "auria:7",
+      "name": "Auria",
+      "file": "maps/auria/map_007.png",
+      "source": "025_auria.webp",
+      "sourceBounds": [
+        200,
+        1482,
+        444,
+        1690
+      ],
+      "width": 244,
+      "height": 208
+    },
+    {
+      "id": "light_and_dark_cave:1",
+      "name": "Light And Dark Cave",
+      "file": "maps/light_and_dark_cave/map_001.png",
+      "source": "026_light_and_dark_cave.webp",
+      "sourceBounds": [
+        0,
+        0,
+        898,
+        1741
+      ],
+      "width": 898,
+      "height": 1741
+    },
+    {
+      "id": "bleak:1",
+      "name": "Bleak",
+      "file": "maps/bleak/map_001.png",
+      "source": "027_bleak.webp",
+      "sourceBounds": [
+        0,
+        0,
+        934,
+        1354
+      ],
+      "width": 934,
+      "height": 1354
+    },
+    {
+      "id": "desert_cave:1",
+      "name": "Desert Cave",
+      "file": "maps/desert_cave/map_001.png",
+      "source": "028_desert_cave.webp",
+      "sourceBounds": [
+        0,
+        0,
+        802,
+        1073
+      ],
+      "width": 802,
+      "height": 1073
+    },
+    {
+      "id": "arad:1",
+      "name": "Arad",
+      "file": "maps/arad/map_001.png",
+      "source": "029_arad.webp",
+      "sourceBounds": [
+        0,
+        0,
+        682,
+        738
+      ],
+      "width": 682,
+      "height": 738
+    },
+    {
+      "id": "krypt:1",
+      "name": "Krypt",
+      "file": "maps/krypt/map_001.png",
+      "source": "030_krypt.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1106,
+        4838
+      ],
+      "width": 1106,
+      "height": 4838
+    },
+    {
+      "id": "krypt:2",
+      "name": "Krypt",
+      "file": "maps/krypt/map_002.png",
+      "source": "030_krypt.webp",
+      "sourceBounds": [
+        740,
+        1992,
+        968,
+        2142
+      ],
+      "width": 228,
+      "height": 150
+    },
+    {
+      "id": "krypt:3",
+      "name": "Krypt",
+      "file": "maps/krypt/map_003.png",
+      "source": "030_krypt.webp",
+      "sourceBounds": [
+        621,
+        3508,
+        958,
+        3892
+      ],
+      "width": 337,
+      "height": 384
+    },
+    {
+      "id": "light_and_dark_keep:1",
+      "name": "Light And Dark Keep",
+      "file": "maps/light_and_dark_keep/map_001.png",
+      "source": "031_light_and_dark_keep.webp",
+      "sourceBounds": [
+        0,
+        0,
+        306,
+        3026
+      ],
+      "width": 306,
+      "height": 3026
+    },
+    {
+      "id": "dark_dragon_port:1",
+      "name": "Dark Dragon Port",
+      "file": "maps/dark_dragon_port/map_001.png",
+      "source": "032_dark_dragon_port.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1029,
+        1378
+      ],
+      "width": 1029,
+      "height": 1378
+    },
+    {
+      "id": "island:1",
+      "name": "Island",
+      "file": "maps/island/map_001.png",
+      "source": "033_island.webp",
+      "sourceBounds": [
+        0,
+        0,
+        289,
+        354
+      ],
+      "width": 289,
+      "height": 354
+    },
+    {
+      "id": "prima:1",
+      "name": "Prima",
+      "file": "maps/prima/map_001.png",
+      "source": "034_prima.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1470,
+        1174
+      ],
+      "width": 1470,
+      "height": 1174
+    },
+    {
+      "id": "prima:2",
+      "name": "Prima",
+      "file": "maps/prima/map_002.png",
+      "source": "034_prima.webp",
+      "sourceBounds": [
+        1189,
+        984,
+        1343,
+        1142
+      ],
+      "width": 154,
+      "height": 158
+    },
+    {
+      "id": "gant:1",
+      "name": "Gant",
+      "file": "maps/gant/map_001.png",
+      "source": "035_gant.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1433,
+        1010
+      ],
+      "width": 1433,
+      "height": 1010
+    },
+    {
+      "id": "dark_dragon_fortress:1",
+      "name": "Dark Dragon Fortress",
+      "file": "maps/dark_dragon_fortress/map_001.png",
+      "source": "036_dark_dragon_fortress.webp",
+      "sourceBounds": [
+        0,
+        0,
+        514,
+        1436
+      ],
+      "width": 514,
+      "height": 1436
+    },
+    {
+      "id": "wise_man_039_s_home:1",
+      "name": "Wise Man'S Home",
+      "file": "maps/wise_man_039_s_home/map_001.png",
+      "source": "037_wise_man_039_s_home.webp",
+      "sourceBounds": [
+        0,
+        0,
+        524,
+        308
+      ],
+      "width": 524,
+      "height": 308
+    },
+    {
+      "id": "grim_fowl_forest:1",
+      "name": "Grim Fowl Forest",
+      "file": "maps/grim_fowl_forest/map_001.png",
+      "source": "038_grim_fowl_forest.webp",
+      "sourceBounds": [
+        0,
+        0,
+        770,
+        1357
+      ],
+      "width": 770,
+      "height": 1357
+    },
+    {
+      "id": "nabal:1",
+      "name": "Nabal",
+      "file": "maps/nabal/map_001.png",
+      "source": "039_nabal.webp",
+      "sourceBounds": [
+        0,
+        0,
+        981,
+        1070
+      ],
+      "width": 981,
+      "height": 1070
+    },
+    {
+      "id": "wisdon:1",
+      "name": "Wisdon",
+      "file": "maps/wisdon/map_001.png",
+      "source": "040_wisdon.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1698,
+        2113
+      ],
+      "width": 1698,
+      "height": 2113
+    },
+    {
+      "id": "undersea_volcano:1",
+      "name": "Undersea Volcano",
+      "file": "maps/undersea_volcano/map_001.png",
+      "source": "041_undersea_volcano.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1532,
+        2401
+      ],
+      "width": 1532,
+      "height": 2401
+    },
+    {
+      "id": "tunlan:1",
+      "name": "Tunlan",
+      "file": "maps/tunlan/map_001.png",
+      "source": "042_tunlan.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1490,
+        1354
+      ],
+      "width": 1490,
+      "height": 1354
+    },
+    {
+      "id": "tunlan:2",
+      "name": "Tunlan",
+      "file": "maps/tunlan/map_002.png",
+      "source": "042_tunlan.webp",
+      "sourceBounds": [
+        989,
+        16,
+        1217,
+        268
+      ],
+      "width": 228,
+      "height": 252
+    },
+    {
+      "id": "tunlan:3",
+      "name": "Tunlan",
+      "file": "maps/tunlan/map_003.png",
+      "source": "042_tunlan.webp",
+      "sourceBounds": [
+        1222,
+        34,
+        1466,
+        242
+      ],
+      "width": 244,
+      "height": 208
+    },
+    {
+      "id": "tunlan:4",
+      "name": "Tunlan",
+      "file": "maps/tunlan/map_004.png",
+      "source": "042_tunlan.webp",
+      "sourceBounds": [
+        728,
+        524,
+        956,
+        784
+      ],
+      "width": 228,
+      "height": 260
+    },
+    {
+      "id": "tunlan:5",
+      "name": "Tunlan",
+      "file": "maps/tunlan/map_005.png",
+      "source": "042_tunlan.webp",
+      "sourceBounds": [
+        1002,
+        651,
+        1230,
+        775
+      ],
+      "width": 228,
+      "height": 124
+    },
+    {
+      "id": "tunlan:6",
+      "name": "Tunlan",
+      "file": "maps/tunlan/map_006.png",
+      "source": "042_tunlan.webp",
+      "sourceBounds": [
+        1184,
+        1071,
+        1490,
+        1308
+      ],
+      "width": 306,
+      "height": 237
+    },
+    {
+      "id": "dragon_palace_2:1",
+      "name": "Dragon Palace 2",
+      "file": "maps/dragon_palace_2/map_001.png",
+      "source": "043_dragon_palace_2.webp",
+      "sourceBounds": [
+        0,
+        0,
+        554,
+        450
+      ],
+      "width": 554,
+      "height": 450
+    },
+    {
+      "id": "gust:1",
+      "name": "Gust",
+      "file": "maps/gust/map_001.png",
+      "source": "044_gust.webp",
+      "sourceBounds": [
+        0,
+        1,
+        228,
+        254
+      ],
+      "width": 228,
+      "height": 253
+    },
+    {
+      "id": "gust:2",
+      "name": "Gust",
+      "file": "maps/gust/map_002.png",
+      "source": "044_gust.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1162,
+        1242
+      ],
+      "width": 1162,
+      "height": 1242
+    },
+    {
+      "id": "gust:3",
+      "name": "Gust",
+      "file": "maps/gust/map_003.png",
+      "source": "044_gust.webp",
+      "sourceBounds": [
+        1010,
+        210,
+        1162,
+        500
+      ],
+      "width": 152,
+      "height": 290
+    },
+    {
+      "id": "gust:4",
+      "name": "Gust",
+      "file": "maps/gust/map_004.png",
+      "source": "044_gust.webp",
+      "sourceBounds": [
+        905,
+        1010,
+        1149,
+        1218
+      ],
+      "width": 244,
+      "height": 208
+    },
+    {
+      "id": "corts_lab:1",
+      "name": "Corts Lab",
+      "file": "maps/corts_lab/map_001.png",
+      "source": "045_corts_lab.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1394,
+        1998
+      ],
+      "width": 1394,
+      "height": 1998
+    },
+    {
+      "id": "corts_lab:2",
+      "name": "Corts Lab",
+      "file": "maps/corts_lab/map_002.png",
+      "source": "045_corts_lab.webp",
+      "sourceBounds": [
+        589,
+        331,
+        849,
+        591
+      ],
+      "width": 260,
+      "height": 260
+    },
+    {
+      "id": "corts_lab:3",
+      "name": "Corts Lab",
+      "file": "maps/corts_lab/map_003.png",
+      "source": "045_corts_lab.webp",
+      "sourceBounds": [
+        567,
+        599,
+        939,
+        859
+      ],
+      "width": 372,
+      "height": 260
+    },
+    {
+      "id": "frog_cave:1",
+      "name": "Frog Cave",
+      "file": "maps/frog_cave/map_001.png",
+      "source": "046_frog_cave.webp",
+      "sourceBounds": [
+        0,
+        0,
+        226,
+        332
+      ],
+      "width": 226,
+      "height": 332
+    },
+    {
+      "id": "gramor:1",
+      "name": "Gramor",
+      "file": "maps/gramor/map_001.png",
+      "source": "047_gramor.webp",
+      "sourceBounds": [
+        0,
+        0,
+        736,
+        665
+      ],
+      "width": 736,
+      "height": 665
+    },
+    {
+      "id": "mogu_039_s_dream:1",
+      "name": "Mogu'S Dream",
+      "file": "maps/mogu_039_s_dream/map_001.png",
+      "source": "048_mogu_039_s_dream.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1525,
+        2314
+      ],
+      "width": 1525,
+      "height": 2314
+    },
+    {
+      "id": "mogu_039_s_dream:2",
+      "name": "Mogu'S Dream",
+      "file": "maps/mogu_039_s_dream/map_002.png",
+      "source": "048_mogu_039_s_dream.webp",
+      "sourceBounds": [
+        33,
+        711,
+        229,
+        963
+      ],
+      "width": 196,
+      "height": 252
+    },
+    {
+      "id": "mogu_039_s_dream:3",
+      "name": "Mogu'S Dream",
+      "file": "maps/mogu_039_s_dream/map_003.png",
+      "source": "048_mogu_039_s_dream.webp",
+      "sourceBounds": [
+        33,
+        966,
+        229,
+        1218
+      ],
+      "width": 196,
+      "height": 252
+    },
+    {
+      "id": "mogu_039_s_dream:4",
+      "name": "Mogu'S Dream",
+      "file": "maps/mogu_039_s_dream/map_004.png",
+      "source": "048_mogu_039_s_dream.webp",
+      "sourceBounds": [
+        33,
+        1222,
+        229,
+        1474
+      ],
+      "width": 196,
+      "height": 252
+    },
+    {
+      "id": "mogu_039_s_dream:5",
+      "name": "Mogu'S Dream",
+      "file": "maps/mogu_039_s_dream/map_005.png",
+      "source": "048_mogu_039_s_dream.webp",
+      "sourceBounds": [
+        33,
+        1477,
+        229,
+        1697
+      ],
+      "width": 196,
+      "height": 220
+    },
+    {
+      "id": "mogu_039_s_dream:6",
+      "name": "Mogu'S Dream",
+      "file": "maps/mogu_039_s_dream/map_006.png",
+      "source": "048_mogu_039_s_dream.webp",
+      "sourceBounds": [
+        9,
+        1701,
+        253,
+        2181
+      ],
+      "width": 244,
+      "height": 480
+    },
+    {
+      "id": "mogu_039_s_hole_1:1",
+      "name": "Mogu'S Hole 1",
+      "file": "maps/mogu_039_s_hole_1/map_001.png",
+      "source": "049_mogu_039_s_hole_1.webp",
+      "sourceBounds": [
+        0,
+        0,
+        306,
+        356
+      ],
+      "width": 306,
+      "height": 356
+    },
+    {
+      "id": "mogu_039_s_hole_2:1",
+      "name": "Mogu'S Hole 2",
+      "file": "maps/mogu_039_s_hole_2/map_001.png",
+      "source": "050_mogu_039_s_hole_2.webp",
+      "sourceBounds": [
+        0,
+        0,
+        288,
+        420
+      ],
+      "width": 288,
+      "height": 420
+    },
+    {
+      "id": "dragon_cave_1:1",
+      "name": "Dragon Cave 1",
+      "file": "maps/dragon_cave_1/map_001.png",
+      "source": "051_dragon_cave_1.webp",
+      "sourceBounds": [
+        0,
+        0,
+        226,
+        338
+      ],
+      "width": 226,
+      "height": 338
+    },
+    {
+      "id": "dragon_cave_2:1",
+      "name": "Dragon Cave 2",
+      "file": "maps/dragon_cave_2/map_001.png",
+      "source": "052_dragon_cave_2.webp",
+      "sourceBounds": [
+        0,
+        0,
+        226,
+        338
+      ],
+      "width": 226,
+      "height": 338
+    },
+    {
+      "id": "south_cave:1",
+      "name": "South Cave",
+      "file": "maps/south_cave/map_001.png",
+      "source": "053_south_cave.webp",
+      "sourceBounds": [
+        0,
+        0,
+        784,
+        1404
+      ],
+      "width": 784,
+      "height": 1404
+    },
+    {
+      "id": "south_cave:2",
+      "name": "South Cave",
+      "file": "maps/south_cave/map_002.png",
+      "source": "053_south_cave.webp",
+      "sourceBounds": [
+        543,
+        20,
+        771,
+        280
+      ],
+      "width": 228,
+      "height": 260
+    },
+    {
+      "id": "spring_before:1",
+      "name": "Spring Before",
+      "file": "maps/spring_before/map_001.png",
+      "source": "054_spring_before.webp",
+      "sourceBounds": [
+        0,
+        0,
+        860,
+        1654
+      ],
+      "width": 860,
+      "height": 1654
+    },
+    {
+      "id": "spring_before:2",
+      "name": "Spring Before",
+      "file": "maps/spring_before/map_002.png",
+      "source": "054_spring_before.webp",
+      "sourceBounds": [
+        0,
+        1657,
+        228,
+        1876
+      ],
+      "width": 228,
+      "height": 219
+    },
+    {
+      "id": "spring_before:3",
+      "name": "Spring Before",
+      "file": "maps/spring_before/map_003.png",
+      "source": "054_spring_before.webp",
+      "sourceBounds": [
+        520,
+        1695,
+        826,
+        1841
+      ],
+      "width": 306,
+      "height": 146
+    },
+    {
+      "id": "spyre:1",
+      "name": "Spyre",
+      "file": "maps/spyre/map_001.png",
+      "source": "055_spyre.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1074,
+        6402
+      ],
+      "width": 1074,
+      "height": 6402
+    },
+    {
+      "id": "spyre:2",
+      "name": "Spyre",
+      "file": "maps/spyre/map_002.png",
+      "source": "055_spyre.webp",
+      "sourceBounds": [
+        148,
+        274,
+        354,
+        446
+      ],
+      "width": 206,
+      "height": 172
+    },
+    {
+      "id": "spyre:3",
+      "name": "Spyre",
+      "file": "maps/spyre/map_003.png",
+      "source": "055_spyre.webp",
+      "sourceBounds": [
+        404,
+        274,
+        610,
+        446
+      ],
+      "width": 206,
+      "height": 172
+    },
+    {
+      "id": "spyre:4",
+      "name": "Spyre",
+      "file": "maps/spyre/map_004.png",
+      "source": "055_spyre.webp",
+      "sourceBounds": [
+        660,
+        274,
+        866,
+        446
+      ],
+      "width": 206,
+      "height": 172
+    },
+    {
+      "id": "spyre:5",
+      "name": "Spyre",
+      "file": "maps/spyre/map_005.png",
+      "source": "055_spyre.webp",
+      "sourceBounds": [
+        67,
+        530,
+        354,
+        778
+      ],
+      "width": 287,
+      "height": 248
+    },
+    {
+      "id": "spyre:6",
+      "name": "Spyre",
+      "file": "maps/spyre/map_006.png",
+      "source": "055_spyre.webp",
+      "sourceBounds": [
+        404,
+        530,
+        610,
+        702
+      ],
+      "width": 206,
+      "height": 172
+    },
+    {
+      "id": "spyre:7",
+      "name": "Spyre",
+      "file": "maps/spyre/map_007.png",
+      "source": "055_spyre.webp",
+      "sourceBounds": [
+        660,
+        530,
+        866,
+        702
+      ],
+      "width": 206,
+      "height": 172
+    },
+    {
+      "id": "spyre:8",
+      "name": "Spyre",
+      "file": "maps/spyre/map_008.png",
+      "source": "055_spyre.webp",
+      "sourceBounds": [
+        854,
+        3706,
+        990,
+        3866
+      ],
+      "width": 136,
+      "height": 160
+    },
+    {
+      "id": "spyre:9",
+      "name": "Spyre",
+      "file": "maps/spyre/map_009.png",
+      "source": "055_spyre.webp",
+      "sourceBounds": [
+        310,
+        4218,
+        510,
+        4378
+      ],
+      "width": 200,
+      "height": 160
+    },
+    {
+      "id": "spyre:10",
+      "name": "Spyre",
+      "file": "maps/spyre/map_010.png",
+      "source": "055_spyre.webp",
+      "sourceBounds": [
+        12,
+        5397,
+        807,
+        5926
+      ],
+      "width": 795,
+      "height": 529
+    },
+    {
+      "id": "world_of_dreams:1",
+      "name": "World Of Dreams",
+      "file": "maps/world_of_dreams/map_001.png",
+      "source": "056_world_of_dreams.webp",
+      "sourceBounds": [
+        0,
+        0,
+        412,
+        501
+      ],
+      "width": 412,
+      "height": 501
+    },
+    {
+      "id": "world_of_dreams:2",
+      "name": "World Of Dreams",
+      "file": "maps/world_of_dreams/map_002.png",
+      "source": "056_world_of_dreams.webp",
+      "sourceBounds": [
+        491,
+        10,
+        687,
+        230
+      ],
+      "width": 196,
+      "height": 220
+    },
+    {
+      "id": "world_of_dreams:3",
+      "name": "World Of Dreams",
+      "file": "maps/world_of_dreams/map_003.png",
+      "source": "056_world_of_dreams.webp",
+      "sourceBounds": [
+        798,
+        19,
+        1714,
+        1015
+      ],
+      "width": 916,
+      "height": 996
+    },
+    {
+      "id": "world_of_dreams:4",
+      "name": "World Of Dreams",
+      "file": "maps/world_of_dreams/map_004.png",
+      "source": "056_world_of_dreams.webp",
+      "sourceBounds": [
+        861,
+        93,
+        1015,
+        239
+      ],
+      "width": 154,
+      "height": 146
+    },
+    {
+      "id": "world_of_dreams:5",
+      "name": "World Of Dreams",
+      "file": "maps/world_of_dreams/map_005.png",
+      "source": "056_world_of_dreams.webp",
+      "sourceBounds": [
+        492,
+        237,
+        687,
+        489
+      ],
+      "width": 195,
+      "height": 252
+    },
+    {
+      "id": "world_of_dreams:6",
+      "name": "World Of Dreams",
+      "file": "maps/world_of_dreams/map_006.png",
+      "source": "056_world_of_dreams.webp",
+      "sourceBounds": [
+        4,
+        502,
+        248,
+        710
+      ],
+      "width": 244,
+      "height": 208
+    },
+    {
+      "id": "world_of_dreams:7",
+      "name": "World Of Dreams",
+      "file": "maps/world_of_dreams/map_007.png",
+      "source": "056_world_of_dreams.webp",
+      "sourceBounds": [
+        0,
+        530,
+        1892,
+        2334
+      ],
+      "width": 1892,
+      "height": 1804
+    },
+    {
+      "id": "world_of_dreams:8",
+      "name": "World Of Dreams",
+      "file": "maps/world_of_dreams/map_008.png",
+      "source": "056_world_of_dreams.webp",
+      "sourceBounds": [
+        258,
+        542,
+        486,
+        802
+      ],
+      "width": 228,
+      "height": 260
+    },
+    {
+      "id": "world_of_dreams:9",
+      "name": "World Of Dreams",
+      "file": "maps/world_of_dreams/map_009.png",
+      "source": "056_world_of_dreams.webp",
+      "sourceBounds": [
+        247,
+        809,
+        491,
+        1069
+      ],
+      "width": 244,
+      "height": 260
+    },
+    {
+      "id": "world_of_dreams:10",
+      "name": "World Of Dreams",
+      "file": "maps/world_of_dreams/map_010.png",
+      "source": "056_world_of_dreams.webp",
+      "sourceBounds": [
+        1025,
+        1036,
+        1269,
+        1296
+      ],
+      "width": 244,
+      "height": 260
+    },
+    {
+      "id": "spring_after:1",
+      "name": "Spring After",
+      "file": "maps/spring_after/map_001.png",
+      "source": "057_spring_after.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1188,
+        2090
+      ],
+      "width": 1188,
+      "height": 2090
+    },
+    {
+      "id": "spring_after:2",
+      "name": "Spring After",
+      "file": "maps/spring_after/map_002.png",
+      "source": "057_spring_after.webp",
+      "sourceBounds": [
+        779,
+        579,
+        975,
+        782
+      ],
+      "width": 196,
+      "height": 203
+    },
+    {
+      "id": "spring_after:3",
+      "name": "Spring After",
+      "file": "maps/spring_after/map_003.png",
+      "source": "057_spring_after.webp",
+      "sourceBounds": [
+        786,
+        797,
+        1014,
+        984
+      ],
+      "width": 228,
+      "height": 187
+    },
+    {
+      "id": "spring_after:4",
+      "name": "Spring After",
+      "file": "maps/spring_after/map_004.png",
+      "source": "057_spring_after.webp",
+      "sourceBounds": [
+        7,
+        1786,
+        235,
+        2005
+      ],
+      "width": 228,
+      "height": 219
+    },
+    {
+      "id": "spring_after:5",
+      "name": "Spring After",
+      "file": "maps/spring_after/map_005.png",
+      "source": "057_spring_after.webp",
+      "sourceBounds": [
+        490,
+        1824,
+        796,
+        1970
+      ],
+      "width": 306,
+      "height": 146
+    },
+    {
+      "id": "carmen:1",
+      "name": "Carmen",
+      "file": "maps/carmen/map_001.png",
+      "source": "058_carmen.webp",
+      "sourceBounds": [
+        0,
+        0,
+        754,
+        1318
+      ],
+      "width": 754,
+      "height": 1318
+    },
+    {
+      "id": "carmen:2",
+      "name": "Carmen",
+      "file": "maps/carmen/map_002.png",
+      "source": "058_carmen.webp",
+      "sourceBounds": [
+        459,
+        790,
+        687,
+        1009
+      ],
+      "width": 228,
+      "height": 219
+    },
+    {
+      "id": "carmen:3",
+      "name": "Carmen",
+      "file": "maps/carmen/map_003.png",
+      "source": "058_carmen.webp",
+      "sourceBounds": [
+        394,
+        1010,
+        638,
+        1218
+      ],
+      "width": 244,
+      "height": 208
+    },
+    {
+      "id": "dragon_cave_3:1",
+      "name": "Dragon Cave 3",
+      "file": "maps/dragon_cave_3/map_001.png",
+      "source": "059_dragon_cave_3.webp",
+      "sourceBounds": [
+        0,
+        0,
+        226,
+        338
+      ],
+      "width": 226,
+      "height": 338
+    },
+    {
+      "id": "mogu_039_s_hole_3:1",
+      "name": "Mogu'S Hole 3",
+      "file": "maps/mogu_039_s_hole_3/map_001.png",
+      "source": "060_mogu_039_s_hole_3.webp",
+      "sourceBounds": [
+        0,
+        0,
+        288,
+        430
+      ],
+      "width": 288,
+      "height": 430
+    },
+    {
+      "id": "tock:1",
+      "name": "Tock",
+      "file": "maps/tock/map_001.png",
+      "source": "061_tock.webp",
+      "sourceBounds": [
+        0,
+        0,
+        613,
+        2688
+      ],
+      "width": 613,
+      "height": 2688
+    },
+    {
+      "id": "south_castle:1",
+      "name": "South Castle",
+      "file": "maps/south_castle/map_001.png",
+      "source": "062_south_castle.webp",
+      "sourceBounds": [
+        0,
+        0,
+        434,
+        896
+      ],
+      "width": 434,
+      "height": 896
+    },
+    {
+      "id": "mogu_039_s_hole_4:1",
+      "name": "Mogu'S Hole 4",
+      "file": "maps/mogu_039_s_hole_4/map_001.png",
+      "source": "063_mogu_039_s_hole_4.webp",
+      "sourceBounds": [
+        0,
+        0,
+        288,
+        430
+      ],
+      "width": 288,
+      "height": 430
+    },
+    {
+      "id": "mogu_039_s_hole_5:1",
+      "name": "Mogu'S Hole 5",
+      "file": "maps/mogu_039_s_hole_5/map_001.png",
+      "source": "064_mogu_039_s_hole_5.webp",
+      "sourceBounds": [
+        0,
+        0,
+        282,
+        356
+      ],
+      "width": 282,
+      "height": 356
+    },
+    {
+      "id": "dragon_palace_3:1",
+      "name": "Dragon Palace 3",
+      "file": "maps/dragon_palace_3/map_001.png",
+      "source": "065_dragon_palace_3.webp",
+      "sourceBounds": [
+        0,
+        0,
+        910,
+        526
+      ],
+      "width": 910,
+      "height": 526
+    },
+    {
+      "id": "scande:1",
+      "name": "Scande",
+      "file": "maps/scande/map_001.png",
+      "source": "066_scande.webp",
+      "sourceBounds": [
+        0,
+        0,
+        1332,
+        4497
+      ],
+      "width": 1332,
+      "height": 4497
+    },
+    {
+      "id": "scande:2",
+      "name": "Scande",
+      "file": "maps/scande/map_002.png",
+      "source": "066_scande.webp",
+      "sourceBounds": [
+        27,
+        1993,
+        735,
+        2213
+      ],
+      "width": 708,
+      "height": 220
+    },
+    {
+      "id": "scande:3",
+      "name": "Scande",
+      "file": "maps/scande/map_003.png",
+      "source": "066_scande.webp",
+      "sourceBounds": [
+        27,
+        2216,
+        735,
+        2436
+      ],
+      "width": 708,
+      "height": 220
+    },
+    {
+      "id": "scande:4",
+      "name": "Scande",
+      "file": "maps/scande/map_004.png",
+      "source": "066_scande.webp",
+      "sourceBounds": [
+        8,
+        2440,
+        298,
+        2973
+      ],
+      "width": 290,
+      "height": 533
+    },
+    {
+      "id": "scande:5",
+      "name": "Scande",
+      "file": "maps/scande/map_005.png",
+      "source": "066_scande.webp",
+      "sourceBounds": [
+        298,
+        2440,
+        542,
+        2963
+      ],
+      "width": 244,
+      "height": 523
+    },
+    {
+      "id": "scande:6",
+      "name": "Scande",
+      "file": "maps/scande/map_006.png",
+      "source": "066_scande.webp",
+      "sourceBounds": [
+        139,
+        2978,
+        399,
+        3660
+      ],
+      "width": 260,
+      "height": 682
+    },
+    {
+      "id": "scande:7",
+      "name": "Scande",
+      "file": "maps/scande/map_007.png",
+      "source": "066_scande.webp",
+      "sourceBounds": [
+        113,
+        3666,
+        426,
+        4245
+      ],
+      "width": 313,
+      "height": 579
+    },
+    {
+      "id": "pagoda:1",
+      "name": "Pagoda",
+      "file": "maps/pagoda/map_001.png",
+      "source": "067_pagoda.webp",
+      "sourceBounds": [
+        45,
+        0,
+        339,
+        482
+      ],
+      "width": 294,
+      "height": 482
+    },
+    {
+      "id": "pagoda:2",
+      "name": "Pagoda",
+      "file": "maps/pagoda/map_002.png",
+      "source": "067_pagoda.webp",
+      "sourceBounds": [
+        414,
+        271,
+        929,
+        830
+      ],
+      "width": 515,
+      "height": 559
+    },
+    {
+      "id": "pagoda:3",
+      "name": "Pagoda",
+      "file": "maps/pagoda/map_003.png",
+      "source": "067_pagoda.webp",
+      "sourceBounds": [
+        0,
+        530,
+        1302,
+        1946
+      ],
+      "width": 1302,
+      "height": 1416
+    },
+    {
+      "id": "pagoda:4",
+      "name": "Pagoda",
+      "file": "maps/pagoda/map_004.png",
+      "source": "067_pagoda.webp",
+      "sourceBounds": [
+        98,
+        566,
+        339,
+        830
+      ],
+      "width": 241,
+      "height": 264
+    },
+    {
+      "id": "pagoda:5",
+      "name": "Pagoda",
+      "file": "maps/pagoda/map_005.png",
+      "source": "067_pagoda.webp",
+      "sourceBounds": [
+        538,
+        1596,
+        766,
+        1747
+      ],
+      "width": 228,
+      "height": 151
+    },
+    {
+      "id": "old_woman_039_s_home:1",
+      "name": "Old Woman'S Home",
+      "file": "maps/old_woman_039_s_home/map_001.png",
+      "source": "068_old_woman_039_s_home.webp",
+      "sourceBounds": [
+        0,
+        0,
+        514,
+        290
+      ],
+      "width": 514,
+      "height": 290
+    },
+    {
+      "id": "obelisk:1",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_001.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        0,
+        1,
+        1180,
+        7718
+      ],
+      "width": 1180,
+      "height": 7717
+    },
+    {
+      "id": "obelisk:2",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_002.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        362,
+        974,
+        517,
+        1127
+      ],
+      "width": 155,
+      "height": 153
+    },
+    {
+      "id": "obelisk:3",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_003.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        362,
+        1230,
+        517,
+        1383
+      ],
+      "width": 155,
+      "height": 153
+    },
+    {
+      "id": "obelisk:4",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_004.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        618,
+        1230,
+        774,
+        1386
+      ],
+      "width": 156,
+      "height": 156
+    },
+    {
+      "id": "obelisk:5",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_005.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        567,
+        1778,
+        754,
+        1953
+      ],
+      "width": 187,
+      "height": 175
+    },
+    {
+      "id": "obelisk:6",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_006.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        518,
+        2034,
+        754,
+        2274
+      ],
+      "width": 236,
+      "height": 240
+    },
+    {
+      "id": "obelisk:7",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_007.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        718,
+        2648,
+        962,
+        2953
+      ],
+      "width": 244,
+      "height": 305
+    },
+    {
+      "id": "obelisk:8",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_008.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        120,
+        3510,
+        306,
+        3685
+      ],
+      "width": 186,
+      "height": 175
+    },
+    {
+      "id": "obelisk:9",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_009.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        376,
+        3510,
+        562,
+        3685
+      ],
+      "width": 186,
+      "height": 175
+    },
+    {
+      "id": "obelisk:10",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_010.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        632,
+        3510,
+        818,
+        3685
+      ],
+      "width": 186,
+      "height": 175
+    },
+    {
+      "id": "obelisk:11",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_011.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        888,
+        3510,
+        1074,
+        3685
+      ],
+      "width": 186,
+      "height": 175
+    },
+    {
+      "id": "obelisk:12",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_012.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        120,
+        3766,
+        306,
+        3941
+      ],
+      "width": 186,
+      "height": 175
+    },
+    {
+      "id": "obelisk:13",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_013.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        376,
+        3766,
+        562,
+        3941
+      ],
+      "width": 186,
+      "height": 175
+    },
+    {
+      "id": "obelisk:14",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_014.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        632,
+        3766,
+        818,
+        3941
+      ],
+      "width": 186,
+      "height": 175
+    },
+    {
+      "id": "obelisk:15",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_015.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        888,
+        3766,
+        1074,
+        3941
+      ],
+      "width": 186,
+      "height": 175
+    },
+    {
+      "id": "obelisk:16",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_016.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        120,
+        4022,
+        306,
+        4197
+      ],
+      "width": 186,
+      "height": 175
+    },
+    {
+      "id": "obelisk:17",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_017.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        376,
+        4022,
+        562,
+        4197
+      ],
+      "width": 186,
+      "height": 175
+    },
+    {
+      "id": "obelisk:18",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_018.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        632,
+        4022,
+        818,
+        4197
+      ],
+      "width": 186,
+      "height": 175
+    },
+    {
+      "id": "obelisk:19",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_019.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        888,
+        4022,
+        1074,
+        4197
+      ],
+      "width": 186,
+      "height": 175
+    },
+    {
+      "id": "obelisk:20",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_020.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        120,
+        4278,
+        306,
+        4453
+      ],
+      "width": 186,
+      "height": 175
+    },
+    {
+      "id": "obelisk:21",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_021.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        376,
+        4278,
+        562,
+        4453
+      ],
+      "width": 186,
+      "height": 175
+    },
+    {
+      "id": "obelisk:22",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_022.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        632,
+        4278,
+        818,
+        4453
+      ],
+      "width": 186,
+      "height": 175
+    },
+    {
+      "id": "obelisk:23",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_023.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        888,
+        4278,
+        1074,
+        4453
+      ],
+      "width": 186,
+      "height": 175
+    },
+    {
+      "id": "obelisk:24",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_024.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        135,
+        5338,
+        290,
+        5491
+      ],
+      "width": 155,
+      "height": 153
+    },
+    {
+      "id": "obelisk:25",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_025.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        391,
+        5338,
+        546,
+        5491
+      ],
+      "width": 155,
+      "height": 153
+    },
+    {
+      "id": "obelisk:26",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_026.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        647,
+        5338,
+        802,
+        5491
+      ],
+      "width": 155,
+      "height": 153
+    },
+    {
+      "id": "obelisk:27",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_027.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        903,
+        5338,
+        1058,
+        5491
+      ],
+      "width": 155,
+      "height": 153
+    },
+    {
+      "id": "obelisk:28",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_028.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        135,
+        5594,
+        290,
+        5747
+      ],
+      "width": 155,
+      "height": 153
+    },
+    {
+      "id": "obelisk:29",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_029.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        391,
+        5594,
+        546,
+        5747
+      ],
+      "width": 155,
+      "height": 153
+    },
+    {
+      "id": "obelisk:30",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_030.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        647,
+        5594,
+        802,
+        5747
+      ],
+      "width": 155,
+      "height": 153
+    },
+    {
+      "id": "obelisk:31",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_031.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        903,
+        5594,
+        1058,
+        5747
+      ],
+      "width": 155,
+      "height": 153
+    },
+    {
+      "id": "obelisk:32",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_032.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        135,
+        5850,
+        290,
+        6003
+      ],
+      "width": 155,
+      "height": 153
+    },
+    {
+      "id": "obelisk:33",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_033.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        391,
+        5850,
+        546,
+        6003
+      ],
+      "width": 155,
+      "height": 153
+    },
+    {
+      "id": "obelisk:34",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_034.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        647,
+        5850,
+        802,
+        6003
+      ],
+      "width": 155,
+      "height": 153
+    },
+    {
+      "id": "obelisk:35",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_035.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        903,
+        5850,
+        1058,
+        6003
+      ],
+      "width": 155,
+      "height": 153
+    },
+    {
+      "id": "obelisk:36",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_036.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        135,
+        6106,
+        290,
+        6259
+      ],
+      "width": 155,
+      "height": 153
+    },
+    {
+      "id": "obelisk:37",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_037.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        391,
+        6106,
+        546,
+        6259
+      ],
+      "width": 155,
+      "height": 153
+    },
+    {
+      "id": "obelisk:38",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_038.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        647,
+        6106,
+        802,
+        6259
+      ],
+      "width": 155,
+      "height": 153
+    },
+    {
+      "id": "obelisk:39",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_039.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        903,
+        6106,
+        1058,
+        6259
+      ],
+      "width": 155,
+      "height": 153
+    },
+    {
+      "id": "obelisk:40",
+      "name": "Obelisk",
+      "file": "maps/obelisk/map_040.png",
+      "source": "069_obelisk.webp",
+      "sourceBounds": [
+        450,
+        7582,
+        644,
+        7718
+      ],
+      "width": 194,
+      "height": 136
+    }
+  ]
+}

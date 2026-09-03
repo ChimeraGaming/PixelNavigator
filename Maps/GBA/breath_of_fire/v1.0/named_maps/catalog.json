@@ -1,0 +1,422 @@
+[
+  {
+    "id": "world",
+    "name": "Maps Of The Month: July 2013",
+    "source": "BreathOfFire-World.png",
+    "file": "named_maps/world/map.png"
+  },
+  {
+    "id": "world-in-game-map",
+    "name": "World (In-Game Map)",
+    "source": "BreathOfFire-World(In-GameMap).png",
+    "file": "named_maps/world-in-game-map/map.png"
+  },
+  {
+    "id": "world-in-game-map-unmarked",
+    "name": "World (In-Game Map) (Unmarked)",
+    "source": "BreathOfFire-World(In-GameMap)(Unmarked).png",
+    "file": "named_maps/world-in-game-map-unmarked/map.png"
+  },
+  {
+    "id": "undersea",
+    "name": "Undersea",
+    "source": "BreathOfFire-Undersea.png",
+    "file": "named_maps/undersea/map.png"
+  },
+  {
+    "id": "drogen",
+    "name": "Drogen",
+    "source": "BreathOfFire-Drogen.png",
+    "file": "named_maps/drogen/map.png"
+  },
+  {
+    "id": "camlon-before",
+    "name": "Camlon (Before)",
+    "source": "BreathOfFire-Camlon(Before).png",
+    "file": "named_maps/camlon-before/map.png"
+  },
+  {
+    "id": "nanai",
+    "name": "Nanai",
+    "source": "BreathOfFire-Nanai.png",
+    "file": "named_maps/nanai/map.png"
+  },
+  {
+    "id": "winlan",
+    "name": "Winlan",
+    "source": "BreathOfFire-Winlan.png",
+    "file": "named_maps/winlan/map.png"
+  },
+  {
+    "id": "auracave",
+    "name": "Aura Cave",
+    "source": "BreathOfFire-AuraCave.png",
+    "file": "named_maps/auracave/map.png"
+  },
+  {
+    "id": "romero-before",
+    "name": "Romero (Before)",
+    "source": "BreathOfFire-Romero(Before).png",
+    "file": "named_maps/romero-before/map.png"
+  },
+  {
+    "id": "karmaforest",
+    "name": "Karma Forest",
+    "source": "BreathOfFire-KarmaForest.png",
+    "file": "named_maps/karmaforest/map.png"
+  },
+  {
+    "id": "karmatower",
+    "name": "Karma Tower",
+    "source": "BreathOfFire-KarmaTower.png",
+    "file": "named_maps/karmatower/map.png"
+  },
+  {
+    "id": "camlon-after",
+    "name": "Camlon (After)",
+    "source": "BreathOfFire-Camlon(After).png",
+    "file": "named_maps/camlon-after/map.png"
+  },
+  {
+    "id": "tantar-tuntar-before",
+    "name": "Tantar/Tuntar (Before)",
+    "source": "BreathOfFire-Tantar-Tuntar(Before).png",
+    "file": "named_maps/tantar-tuntar-before/map.png"
+  },
+  {
+    "id": "forestofdespair",
+    "name": "Forest Of Despair",
+    "source": "BreathOfFire-ForestOfDespair.png",
+    "file": "named_maps/forestofdespair/map.png"
+  },
+  {
+    "id": "cleansingwatercave",
+    "name": "Cleansing Water Cave",
+    "source": "BreathOfFire-CleansingWaterCave.png",
+    "file": "named_maps/cleansingwatercave/map.png"
+  },
+  {
+    "id": "romero-after",
+    "name": "Romero (After)",
+    "source": "BreathOfFire-Romero(After).png",
+    "file": "named_maps/romero-after/map.png"
+  },
+  {
+    "id": "agua",
+    "name": "Agua",
+    "source": "BreathOfFire-Agua.png",
+    "file": "named_maps/agua/map.png"
+  },
+  {
+    "id": "stonerobot",
+    "name": "Stone Robot",
+    "source": "BreathOfFire-StoneRobot.png",
+    "file": "named_maps/stonerobot/map.png"
+  },
+  {
+    "id": "tantar-tuntar-after",
+    "name": "Tantar/Tuntar (After)",
+    "source": "BreathOfFire-Tantar-Tuntar(After).png",
+    "file": "named_maps/tantar-tuntar-after/map.png"
+  },
+  {
+    "id": "lakecave",
+    "name": "Lake Cave",
+    "source": "BreathOfFire-LakeCave.png",
+    "file": "named_maps/lakecave/map.png"
+  },
+  {
+    "id": "dragonpalace1",
+    "name": "Dragon Palace 1",
+    "source": "BreathOfFire-DragonPalace1.png",
+    "file": "named_maps/dragonpalace1/map.png"
+  },
+  {
+    "id": "fairywoods",
+    "name": "Fairy Woods",
+    "source": "BreathOfFire-FairyWoods.png",
+    "file": "named_maps/fairywoods/map.png"
+  },
+  {
+    "id": "flowerring",
+    "name": "Flower Ring",
+    "source": "BreathOfFire-FlowerRing.png",
+    "file": "named_maps/flowerring/map.png"
+  },
+  {
+    "id": "northcave",
+    "name": "North Cave",
+    "source": "BreathOfFire-NorthCave.png",
+    "file": "named_maps/northcave/map.png"
+  },
+  {
+    "id": "auria",
+    "name": "Auria",
+    "source": "BreathOfFire-Auria.png",
+    "file": "named_maps/auria/map.png"
+  },
+  {
+    "id": "lightanddarkcave",
+    "name": "Light And Dark Cave",
+    "source": "BreathOfFire-LightAndDarkCave.png",
+    "file": "named_maps/lightanddarkcave/map.png"
+  },
+  {
+    "id": "bleak",
+    "name": "Bleak",
+    "source": "BreathOfFire-Bleak.png",
+    "file": "named_maps/bleak/map.png"
+  },
+  {
+    "id": "desertcave",
+    "name": "Desert Cave",
+    "source": "BreathOfFire-DesertCave.png",
+    "file": "named_maps/desertcave/map.png"
+  },
+  {
+    "id": "arad",
+    "name": "Arad",
+    "source": "BreathOfFire-Arad.png",
+    "file": "named_maps/arad/map.png"
+  },
+  {
+    "id": "krypt",
+    "name": "Krypt",
+    "source": "BreathOfFire-Krypt.png",
+    "file": "named_maps/krypt/map.png"
+  },
+  {
+    "id": "lightanddarkkeep",
+    "name": "Light And Dark Keep",
+    "source": "BreathOfFire-LightAndDarkKeep.png",
+    "file": "named_maps/lightanddarkkeep/map.png"
+  },
+  {
+    "id": "darkdragonport",
+    "name": "Dark Dragon Port",
+    "source": "BreathOfFire-DarkDragonPort.png",
+    "file": "named_maps/darkdragonport/map.png"
+  },
+  {
+    "id": "island",
+    "name": "Island",
+    "source": "BreathOfFire-Island.png",
+    "file": "named_maps/island/map.png"
+  },
+  {
+    "id": "prima",
+    "name": "Prima",
+    "source": "BreathOfFire-Prima.png",
+    "file": "named_maps/prima/map.png"
+  },
+  {
+    "id": "gant",
+    "name": "Gant",
+    "source": "BreathOfFire-Gant.png",
+    "file": "named_maps/gant/map.png"
+  },
+  {
+    "id": "darkdragonfortress",
+    "name": "Dark Dragon Fortress",
+    "source": "BreathOfFire-DarkDragonFortress.png",
+    "file": "named_maps/darkdragonfortress/map.png"
+  },
+  {
+    "id": "wisemanshome",
+    "name": "Wise Man's Home",
+    "source": "BreathOfFire-WiseMan'sHome.png",
+    "file": "named_maps/wisemanshome/map.png"
+  },
+  {
+    "id": "grimfowlforest",
+    "name": "Grim Fowl Forest",
+    "source": "BreathOfFire-GrimFowlForest.png",
+    "file": "named_maps/grimfowlforest/map.png"
+  },
+  {
+    "id": "nabal",
+    "name": "Nabal",
+    "source": "BreathOfFire-Nabal.png",
+    "file": "named_maps/nabal/map.png"
+  },
+  {
+    "id": "wisdon",
+    "name": "Wisdon",
+    "source": "BreathOfFire-Wisdon.png",
+    "file": "named_maps/wisdon/map.png"
+  },
+  {
+    "id": "underseavolcano",
+    "name": "Undersea Volcano",
+    "source": "BreathOfFire-UnderseaVolcano.png",
+    "file": "named_maps/underseavolcano/map.png"
+  },
+  {
+    "id": "tunlan",
+    "name": "Tunlan",
+    "source": "BreathOfFire-Tunlan.png",
+    "file": "named_maps/tunlan/map.png"
+  },
+  {
+    "id": "dragonpalace2",
+    "name": "Dragon Palace 2",
+    "source": "BreathOfFire-DragonPalace2.png",
+    "file": "named_maps/dragonpalace2/map.png"
+  },
+  {
+    "id": "gust",
+    "name": "Gust",
+    "source": "BreathOfFire-Gust.png",
+    "file": "named_maps/gust/map.png"
+  },
+  {
+    "id": "cortslab",
+    "name": "Corts Lab",
+    "source": "BreathOfFire-CortsLab.png",
+    "file": "named_maps/cortslab/map.png"
+  },
+  {
+    "id": "frogcave",
+    "name": "Frog Cave",
+    "source": "BreathOfFire-FrogCave.png",
+    "file": "named_maps/frogcave/map.png"
+  },
+  {
+    "id": "gramor",
+    "name": "Gramor",
+    "source": "BreathOfFire-Gramor.png",
+    "file": "named_maps/gramor/map.png"
+  },
+  {
+    "id": "mogusdream",
+    "name": "Mogu's Dream",
+    "source": "BreathOfFire-Mogu'sDream.png",
+    "file": "named_maps/mogusdream/map.png"
+  },
+  {
+    "id": "mogushole1",
+    "name": "Mogu's Hole 1",
+    "source": "BreathOfFire-Mogu'sHole1.png",
+    "file": "named_maps/mogushole1/map.png"
+  },
+  {
+    "id": "mogushole2",
+    "name": "Mogu's Hole 2",
+    "source": "BreathOfFire-Mogu'sHole2.png",
+    "file": "named_maps/mogushole2/map.png"
+  },
+  {
+    "id": "dragoncave1",
+    "name": "Dragon Cave 1",
+    "source": "BreathOfFire-DragonCave1.png",
+    "file": "named_maps/dragoncave1/map.png"
+  },
+  {
+    "id": "dragoncave2",
+    "name": "Dragon Cave 2",
+    "source": "BreathOfFire-DragonCave2.png",
+    "file": "named_maps/dragoncave2/map.png"
+  },
+  {
+    "id": "southcave",
+    "name": "South Cave",
+    "source": "BreathOfFire-SouthCave.png",
+    "file": "named_maps/southcave/map.png"
+  },
+  {
+    "id": "spring-before",
+    "name": "Spring (Before)",
+    "source": "BreathOfFire-Spring(Before).png",
+    "file": "named_maps/spring-before/map.png"
+  },
+  {
+    "id": "spyre",
+    "name": "Spyre",
+    "source": "BreathOfFire-Spyre.png",
+    "file": "named_maps/spyre/map.png"
+  },
+  {
+    "id": "worldofdreams",
+    "name": "World Of Dreams",
+    "source": "BreathOfFire-WorldOfDreams.png",
+    "file": "named_maps/worldofdreams/map.png"
+  },
+  {
+    "id": "spring-after",
+    "name": "Spring (After)",
+    "source": "BreathOfFire-Spring(After).png",
+    "file": "named_maps/spring-after/map.png"
+  },
+  {
+    "id": "carmen",
+    "name": "Carmen",
+    "source": "BreathOfFire-Carmen.png",
+    "file": "named_maps/carmen/map.png"
+  },
+  {
+    "id": "dragoncave3",
+    "name": "Dragon Cave 3",
+    "source": "BreathOfFire-DragonCave3.png",
+    "file": "named_maps/dragoncave3/map.png"
+  },
+  {
+    "id": "mogushole3",
+    "name": "Mogu's Hole 3",
+    "source": "BreathOfFire-Mogu'sHole3.png",
+    "file": "named_maps/mogushole3/map.png"
+  },
+  {
+    "id": "tock",
+    "name": "Tock",
+    "source": "BreathOfFire-Tock.png",
+    "file": "named_maps/tock/map.png"
+  },
+  {
+    "id": "southcastle",
+    "name": "South Castle",
+    "source": "BreathOfFire-SouthCastle.png",
+    "file": "named_maps/southcastle/map.png"
+  },
+  {
+    "id": "mogushole4",
+    "name": "Mogu's Hole 4",
+    "source": "BreathOfFire-Mogu'sHole4.png",
+    "file": "named_maps/mogushole4/map.png"
+  },
+  {
+    "id": "mogushole5",
+    "name": "Mogu's Hole 5",
+    "source": "BreathOfFire-Mogu'sHole5.png",
+    "file": "named_maps/mogushole5/map.png"
+  },
+  {
+    "id": "dragonpalace3",
+    "name": "Dragon Palace 3",
+    "source": "BreathOfFire-DragonPalace3.png",
+    "file": "named_maps/dragonpalace3/map.png"
+  },
+  {
+    "id": "scande",
+    "name": "Scande",
+    "source": "BreathOfFire-Scande.png",
+    "file": "named_maps/scande/map.png"
+  },
+  {
+    "id": "pagoda",
+    "name": "Pagoda",
+    "source": "BreathOfFire-Pagoda.png",
+    "file": "named_maps/pagoda/map.png"
+  },
+  {
+    "id": "oldwomanshome",
+    "name": "Old Woman's Home",
+    "source": "BreathOfFire-OldWoman'sHome.png",
+    "file": "named_maps/oldwomanshome/map.png"
+  },
+  {
+    "id": "obelisk",
+    "name": "Obelisk",
+    "source": "BreathOfFire-Obelisk.png",
+    "file": "named_maps/obelisk/map.png"
+  }
+]
