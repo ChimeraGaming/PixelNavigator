@@ -8,6 +8,9 @@
 Working on other games now that pokemon firered / emerald setup and tools have been built.
 <img width="799" height="824" alt="image" src="https://github.com/user-attachments/assets/27f28111-a235-4cb0-8a6a-2f562d34ef2a" />
 
+<img width="808" height="845" alt="image" src="https://github.com/user-attachments/assets/8334ea53-7bba-4ab1-8a0d-25597510d367" />
+
+
 
 
 
