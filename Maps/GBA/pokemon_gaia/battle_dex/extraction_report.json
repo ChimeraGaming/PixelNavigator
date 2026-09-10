@@ -1,0 +1,19 @@
+{
+  "gameId": "pokemon_gaia",
+  "rom": "Pokemon-Gaia-v3.2.gba",
+  "romSize": 33554432,
+  "gameCode": "BPRE",
+  "mapBankTable": 3483868,
+  "mapBankScore": 27,
+  "speciesCountRequested": 912,
+  "speciesEntries": 911,
+  "speciesSprites": 911,
+  "encounterMaps": 93,
+  "mapItemMaps": 296,
+  "mapItems": 1019,
+  "mapObjectMaps": 1110,
+  "mapObjects": 4562,
+  "mapImagesSeen": 1217,
+  "warningCount": 0,
+  "warnings": []
+}

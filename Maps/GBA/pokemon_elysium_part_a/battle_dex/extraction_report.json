@@ -1,0 +1,19 @@
+{
+  "gameId": "pokemon_elysium_part_a",
+  "rom": "elysium-a-v2.5.0.gba",
+  "romSize": 16777216,
+  "gameCode": "BPRE",
+  "mapBankTable": 3483304,
+  "mapBankScore": 43,
+  "speciesCountRequested": 412,
+  "speciesEntries": 411,
+  "speciesSprites": 411,
+  "encounterMaps": 197,
+  "mapItemMaps": 255,
+  "mapItems": 736,
+  "mapObjectMaps": 1039,
+  "mapObjects": 5580,
+  "mapImagesSeen": 1133,
+  "warningCount": 0,
+  "warnings": []
+}

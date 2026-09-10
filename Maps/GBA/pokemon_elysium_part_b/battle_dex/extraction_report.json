@@ -1,0 +1,24 @@
+{
+  "gameId": "pokemon_elysium_part_b",
+  "rom": "elysium-b-v2.5.0.gba",
+  "romSize": 16777216,
+  "gameCode": "BPRE",
+  "mapBankTable": 3483304,
+  "mapBankScore": 43,
+  "speciesCountRequested": 516,
+  "speciesEntries": 515,
+  "speciesSprites": 515,
+  "encounterMaps": 183,
+  "mapItemMaps": 150,
+  "mapItems": 287,
+  "mapObjectMaps": 834,
+  "mapObjects": 3680,
+  "mapImagesSeen": 960,
+  "warningCount": 4,
+  "warnings": [
+    "map items 11:11: invalid map header",
+    "map items 3:42: implausible event counts 218/225",
+    "map objects 11:11: invalid map header",
+    "map objects 3:42: implausible object count 218"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "gameId": "pokemon_odyssey_ii_demo",
+  "rom": "odyssey-II-demo-0.1.2.gba",
+  "romSize": 33554432,
+  "gameCode": "BPRE",
+  "mapBankTable": 3483304,
+  "mapBankScore": 43,
+  "speciesCountRequested": 1152,
+  "speciesEntries": 1151,
+  "speciesSprites": 1151,
+  "encounterMaps": 23,
+  "mapItemMaps": 175,
+  "mapItems": 450,
+  "mapObjectMaps": 1743,
+  "mapObjects": 6005,
+  "mapImagesSeen": 1862,
+  "warningCount": 0,
+  "warnings": []
+}

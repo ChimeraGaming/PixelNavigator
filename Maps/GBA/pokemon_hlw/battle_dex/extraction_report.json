@@ -1,0 +1,22 @@
+{
+  "gameId": "pokemon_hlw",
+  "rom": "pokemon_hlw.gba",
+  "romSize": 33554432,
+  "gameCode": "BPEE",
+  "mapBankTable": 18148328,
+  "mapBankScore": 34,
+  "speciesCountRequested": 1026,
+  "speciesEntries": 963,
+  "speciesSprites": 963,
+  "shinySpeciesSprites": 963,
+  "encounterMaps": 0,
+  "mapItemMaps": 0,
+  "mapItems": 0,
+  "mapObjectMaps": 0,
+  "mapObjects": 0,
+  "mapImagesSeen": 0,
+  "warningCount": 1,
+  "warnings": [
+    "wild encounters unavailable: wild encounters anchor 0x82990 contains invalid pointer 0x4B03B500"
+  ]
+}

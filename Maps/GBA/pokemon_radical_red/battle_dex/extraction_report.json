@@ -1,0 +1,19 @@
+{
+  "gameId": "pokemon_radical_red",
+  "rom": "radicalred-4.1.gba",
+  "romSize": 33554432,
+  "gameCode": "BPRE",
+  "mapBankTable": 3483304,
+  "mapBankScore": 43,
+  "speciesCountRequested": 1227,
+  "speciesEntries": 1226,
+  "speciesSprites": 1226,
+  "encounterMaps": 125,
+  "mapItemMaps": 276,
+  "mapItems": 668,
+  "mapObjectMaps": 2955,
+  "mapObjects": 10320,
+  "mapImagesSeen": 3125,
+  "warningCount": 0,
+  "warnings": []
+}

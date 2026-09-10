@@ -1,0 +1,23 @@
+{
+  "gameId": "pokemon_evolved",
+  "rom": "evolved.gba",
+  "romSize": 16777216,
+  "gameCode": "BPGE",
+  "mapBankTable": 3514684,
+  "mapBankScore": 43,
+  "speciesCountRequested": 412,
+  "speciesEntries": 411,
+  "speciesSprites": 411,
+  "shinySpeciesSprites": 411,
+  "encounterMaps": 0,
+  "mapItemMaps": 431,
+  "mapItems": 1163,
+  "mapObjectMaps": 3401,
+  "mapObjects": 11760,
+  "mapImagesSeen": 3693,
+  "warningCount": 2,
+  "warnings": [
+    "wild encounters unavailable: no structural wild encounter table was found (best 1)",
+    "Pok\u00e9dex metadata unavailable: Pok\u00e9dex entries anchor 0x88E30 contains invalid pointer 0x28005E60"
+  ]
+}

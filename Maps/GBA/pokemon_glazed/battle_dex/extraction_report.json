@@ -1,0 +1,20 @@
+{
+  "gameId": "pokemon_glazed",
+  "rom": "Pokemon-Glazed-v9.1.0.gba",
+  "romSize": 33554432,
+  "gameCode": "BPEE",
+  "mapBankTable": 4744568,
+  "mapBankScore": 34,
+  "speciesCountRequested": 412,
+  "speciesEntries": 411,
+  "speciesSprites": 411,
+  "shinySpeciesSprites": 411,
+  "encounterMaps": 159,
+  "mapItemMaps": 210,
+  "mapItems": 373,
+  "mapObjectMaps": 1317,
+  "mapObjects": 7564,
+  "mapImagesSeen": 1372,
+  "warningCount": 0,
+  "warnings": []
+}

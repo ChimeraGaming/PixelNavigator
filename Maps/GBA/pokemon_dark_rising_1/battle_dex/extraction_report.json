@@ -1,0 +1,19 @@
+{
+  "gameId": "pokemon_dark_rising_1",
+  "rom": "darkrising-kaizo-fixed.gba",
+  "romSize": 16777216,
+  "gameCode": "BPRE",
+  "mapBankTable": 3483304,
+  "mapBankScore": 43,
+  "speciesCountRequested": 412,
+  "speciesEntries": 411,
+  "speciesSprites": 411,
+  "encounterMaps": 132,
+  "mapItemMaps": 298,
+  "mapItems": 773,
+  "mapObjectMaps": 3023,
+  "mapObjects": 10200,
+  "mapImagesSeen": 3263,
+  "warningCount": 0,
+  "warnings": []
+}
