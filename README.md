@@ -20,7 +20,36 @@ Pixel Navigator explores whether a similar concept could be expanded to emulated
 
 **Implementation Stage**
 
-GameList coming soon.
+## Game List
+
+### Game Boy Advance
+
+| Game | Map | BattleDex | Quests | Shiny Starter |
+|---|:---:|:---:|:---:|:---:|
+| Pokémon Clover | ✓ | ✓ |  | ✓ |
+| Pokémon Crown | ✓ | ✓ | 50% | ✓ |
+| Pokémon Unbound | ✓ | ✓ | 50% | ✓ |
+| Pokémon Odyssey | ✓ | ✓ | 50% | ✓ |
+| Pokémon SoulGold | ✓ | ✓ |  | ✓ |
+| Pokémon Heart & Soul | ✓ | ✓ |  | ✓ |
+| Pokémon Dark Rising | ✓ | ✓ |  | ✓ |
+| Pokémon Elysium: Part A | ✓ | ✓ |  |  |
+| Pokémon Elysium: Part B | ✓ | ✓ |  |  |
+| Pokémon Gaia | ✓ | ✓ |  | ✓ |
+| Pokémon Radical Red | ✓ | ✓ |  |  |
+| Pokémon Evolved | ✓ | ✓ |  | ✓ |
+| Pokémon HLW | ✓ |  |  |  |
+| Pokémon Odyssey II | ✓ | ✓ |  |  |
+| Pokémon Glazed | ✓ | ✓ |  | ✓ |
+| Dragon Ball Z: Buu's Fury | ✓ | N/A |  | N/A |
+
+### Nintendo DS
+
+| Game | Map | BattleDex | Quests | Shiny Starter |
+|---|:---:|:---:|:---:|:---:|
+| AW2 |  |  |  |  |
+
+✓ means supported. Blank means not available yet. N/A means the feature does not apply. 50% means I've found quest data but have not decoded reliably.
 
 The purpose of this repository is to document the idea, research possible tracking methods, and determine whether the project is practical before development begins.
 
