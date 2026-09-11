@@ -42,7 +42,10 @@ Pixel Navigator explores whether a similar concept could be expanded to emulated
 | Pokémon HLW | ✓ |  |  |  |
 | Pokémon Odyssey II | ✓ | ✓ |  |  |
 | Pokémon Glazed | ✓ | ✓ |  | ✓ |
+| Dragon Ball Z: Legacy of Goku I | ✓ | N/A |  | N/A |
+| Dragon Ball Z: Legacy of Goku II | ✓ | N/A |  | N/A |
 | Dragon Ball Z: Buu's Fury | ✓ | N/A |  | N/A |
+
 
 
 ✓ means supported. Blank means not available yet. N/A means the feature does not apply. 50% means I've found quest data but have not decoded reliably.
