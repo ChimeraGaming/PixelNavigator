@@ -20,8 +20,6 @@ Pixel Navigator explores whether a similar concept could be expanded to emulated
 
 **Implementation Stage**
 
-## Game List
-
 ### Game Boy Advance
 
 | Game | Map | BattleDex | Quests | Shiny Starter |
@@ -42,9 +40,28 @@ Pixel Navigator explores whether a similar concept could be expanded to emulated
 | Pokémon HLW | ✓ |  |  |  |
 | Pokémon Odyssey II | ✓ | ✓ |  |  |
 | Pokémon Glazed | ✓ | ✓ |  | ✓ |
-| Dragon Ball Z: Legacy of Goku I | ✓ | N/A |  | N/A |
-| Dragon Ball Z: Legacy of Goku II | ✓ | N/A |  | N/A |
+| Pokémon Hearth |  |  |  |  |
+| Pokémon Palimpsest |  |  |  |  |
+| Pokémon Dreamstone Mysteries |  |  |  |  |
+| Pokémon Lazarus |  |  |  |  |
+| Pokémon Elite Redux |  |  |  |  |
+| Pokémon Sunset Edition |  |  |  |  |
+| Pokémon Emerald Seaglass |  |  |  |  |
+| Mariomon |  |  |  |  |
+| Dragon Ball Z: The Legacy of Goku | ✓ | N/A |  | N/A |
+| Dragon Ball Z: The Legacy of Goku II |  | N/A |  | N/A |
 | Dragon Ball Z: Buu's Fury | ✓ | N/A |  | N/A |
+| The Legend of Zelda: The Minish Cap |  | N/A |  | N/A |
+| The Legend of Zelda: A Link to the Past & Four Swords |  | N/A |  | N/A |
+| Classic NES Series: The Legend of Zelda |  | N/A |  | N/A |
+| Classic NES Series: Zelda II – The Adventure of Link |  | N/A |  | N/A |
+
+### Game Boy / Game Boy Color
+
+| Game | Map | BattleDex | Quests | Shiny Starter |
+|---|:---:|:---:|:---:|:---:|
+| Pokémon Crystal Awakening |  |  |  |  |
+
 
 
 
