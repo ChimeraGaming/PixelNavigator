@@ -16,9 +16,7 @@ Fanmake Pokémon Maps provides maps for Pokémon fangames and can track player m
 
 Pixel Navigator explores whether a similar concept could be expanded to emulated games across multiple systems.
 
-## Project Status
-
-**Implementation Stage**
+## Game List
 
 ### Game Boy Advance
 
@@ -37,17 +35,17 @@ Pixel Navigator explores whether a similar concept could be expanded to emulated
 | Pokémon Gaia | ✓ | ✓ |  | ✓ |
 | Pokémon Radical Red | ✓ | ✓ |  |  |
 | Pokémon Evolved | ✓ | ✓ |  | ✓ |
-| Pokémon HLW | ✓ |  |  |  |
+| Pokémon HLW | ✓ | ✓ |  | ✓ |
 | Pokémon Odyssey II | ✓ | ✓ |  |  |
 | Pokémon Glazed | ✓ | ✓ |  | ✓ |
-| Pokémon Hearth |  |  |  |  |
-| Pokémon Palimpsest |  |  |  |  |
-| Pokémon Dreamstone Mysteries |  |  |  |  |
-| Pokémon Lazarus |  |  |  |  |
-| Pokémon Elite Redux |  |  |  |  |
+| Pokémon Hearth | ✓ | ✓ |  |  |
+| Pokémon Palimpsest | ✓ | ✓ |  |  |
+| Pokémon Dreamstone Mysteries | ✓ | ✓ |  |  |
+| Pokémon Lazarus | ✓ | ✓ |  |  |
+| Pokémon Elite Redux | ✓ | ✓ |  |  |
 | Pokémon Sunset Edition |  |  |  |  |
-| Pokémon Emerald Seaglass |  |  |  |  |
-| Mariomon |  |  |  |  |
+| Pokémon Emerald Seaglass | ✓ | ✓ |  |  |
+| Mariomon | ✓ | ✓ |  |  |
 | Dragon Ball Z: The Legacy of Goku | ✓ | N/A |  | N/A |
 | Dragon Ball Z: The Legacy of Goku II |  | N/A |  | N/A |
 | Dragon Ball Z: Buu's Fury | ✓ | N/A |  | N/A |
@@ -60,7 +58,7 @@ Pixel Navigator explores whether a similar concept could be expanded to emulated
 
 | Game | Map | BattleDex | Quests | Shiny Starter |
 |---|:---:|:---:|:---:|:---:|
-| Pokémon Crystal Awakening |  |  |  |  |
+| Pokémon Crystal Awakening | ✓ | ✓ |  |  |
 
 
 
