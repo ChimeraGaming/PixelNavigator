@@ -29,6 +29,7 @@ Pixel Navigator explores whether a similar concept could be expanded to emulated
 | Pokémon Clover | ✓ | ✓ |  | ✓ |
 | Pokémon Crown | ✓ | ✓ | 50% | ✓ |
 | Pokémon Unbound | ✓ | ✓ | 50% | ✓ |
+| Pokémon Emerald Rogue | ✓ | ✓ | 50% | ✓ |
 | Pokémon Odyssey | ✓ | ✓ | 50% | ✓ |
 | Pokémon SoulGold | ✓ | ✓ |  | ✓ |
 | Pokémon Heart & Soul | ✓ | ✓ |  | ✓ |
