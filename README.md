@@ -26,30 +26,30 @@ Pixel Navigator explores whether a similar concept could be expanded to emulated
 | Pokémon Crown | ✓ | ✓ | 50% | ✓ |
 | Pokémon Unbound | ✓ | ✓ | 50% | ✓ |
 | Pokémon Emerald Rogue | ✓ | ✓ | 50% | ✓ |
-| Pokémon Odyssey | ✓ | ✓ | 50% | ✓ |
+| Pokémon Odyssey | ✓ | ✓ |  | ✓ |
 | Pokémon SoulGold | ✓ | ✓ |  | ✓ |
 | Pokémon Heart & Soul | ✓ | ✓ |  | ✓ |
 | Pokémon Dark Rising | ✓ | ✓ |  | ✓ |
-| Pokémon Elysium: Part A | ✓ | ✓ |  |  |
-| Pokémon Elysium: Part B | ✓ | ✓ |  |  |
+| Pokémon Elysium: Part A | ✓ | ✓ |  | ✓ |
+| Pokémon Elysium: Part B | ✓ | ✓ |  | ✓ |
 | Pokémon Gaia | ✓ | ✓ |  | ✓ |
-| Pokémon Radical Red | ✓ | ✓ |  |  |
+| Pokémon Radical Red | ✓ | ✓ |  | ✓ |
 | Pokémon Evolved | ✓ | ✓ |  | ✓ |
-| Pokémon HLW | ✓ | ✓ |  | ✓ |
-| Pokémon Odyssey II | ✓ | ✓ |  |  |
+| Pokémon HLW | ✓ |  |  | ✓ |
+| Pokémon Odyssey II | ✓ | ✓ |  | ✓ |
 | Pokémon Glazed | ✓ | ✓ |  | ✓ |
-| Pokémon Hearth | ✓ | ✓ |  |  |
-| Pokémon Palimpsest | ✓ | ✓ |  |  |
-| Pokémon Dreamstone Mysteries | ✓ | ✓ |  |  |
+| Pokémon Hearth | ✓ |  |  | ✓ |
+| Pokémon Palimpsest | ✓ |  |  | ✓ |
+| Pokémon Dreamstone Mysteries | ✓ |  |  | ✓ |
 | Pokémon Lazarus | ✓ | ✓ |  |  |
-| Pokémon Elite Redux | ✓ | ✓ |  |  |
+| Pokémon Elite Redux | ✓ |  |  | ✓ |
 | Pokémon Sunset Edition |  |  |  |  |
-| Pokémon Emerald Seaglass | ✓ | ✓ |  |  |
-| Mariomon | ✓ | ✓ |  |  |
+| Pokémon Emerald Seaglass | ✓ |  |  | ✓ |
+| Mariomon | ✓ | ✓ |  | ✓ |
 | Dragon Ball Z: The Legacy of Goku | ✓ | N/A |  | N/A |
 | Dragon Ball Z: The Legacy of Goku II |  | N/A |  | N/A |
 | Dragon Ball Z: Buu's Fury | ✓ | N/A |  | N/A |
-| The Legend of Zelda: The Minish Cap |  | N/A |  | N/A |
+| The Legend of Zelda: The Minish Cap | ✓ | N/A |  | N/A |
 | The Legend of Zelda: A Link to the Past & Four Swords |  | N/A |  | N/A |
 | Classic NES Series: The Legend of Zelda |  | N/A |  | N/A |
 | Classic NES Series: Zelda II – The Adventure of Link |  | N/A |  | N/A |
@@ -58,7 +58,13 @@ Pixel Navigator explores whether a similar concept could be expanded to emulated
 
 | Game | Map | BattleDex | Quests | Shiny Starter |
 |---|:---:|:---:|:---:|:---:|
-| Pokémon Crystal Awakening | ✓ | ✓ |  |  |
+| Pokémon Crystal Awakening | ✓ | ✓ |  | ✓ |
+
+### PlayStation
+
+| Game | Map | BattleDex | Quests |
+|---|:---:|:---:|:---:|
+| Breath of Fire III | ✓ |   |  |
 
 
 
