@@ -45,7 +45,7 @@ Pixel Navigator explores whether a similar concept could be expanded to emulated
 | Pokémon Elite Redux | ✓ |  |  | ✓ |
 | Pokémon Sunset Edition |  |  |  |  |
 | Pokémon Emerald Seaglass | ✓ |  |  | ✓ |
-| Pokémon Hyper Emerald: Lost Artifacts | ✓ | ✓ | | |
+| Pokémon Hyper Emerald: Lost Artifacts | ✓ | ✓ | | ✓ |
 | Mariomon | ✓ | ✓ |  | ✓ |
 | Dragon Ball Z: The Legacy of Goku | ✓ | N/A |  | N/A |
 | Dragon Ball Z: The Legacy of Goku II |  | N/A |  | N/A |
