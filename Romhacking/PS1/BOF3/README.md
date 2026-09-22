@@ -1,4 +1,4 @@
-# Breath of Fire III – 32,767 Damage Limit
+# Breath of Fire III - 32,767 Damage Limit
 
 This patch raises the maximum damage in the North American PlayStation release
 of Breath of Fire III from 9,999 to 32,767.
