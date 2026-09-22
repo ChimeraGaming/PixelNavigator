@@ -1,0 +1,14 @@
+Breath of Fire III - 32,767 Damage Limit v1.0
+Sony PlayStation / USA v1.1 / SLUS-00422
+
+Raises the normal battle-damage limit from 9,999 to 32,767.
+No forced-damage test modification is included.
+
+Apply the PPF 3.0 patch to the raw 2,352-byte-sector Track 1 BIN.
+
+Original Track 1:
+CRC32  4D5B0D4B
+MD5    9DD9A7C934B8B59D0CE76B0F25D18176
+SHA-1  5745D9DDE965ED0EC673BA071DEB762355FA3E1A
+
+See README.txt for complete instructions and SHA-256 checksums.
