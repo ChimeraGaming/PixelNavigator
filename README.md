@@ -66,6 +66,7 @@ Pixel Navigator explores whether a similar concept could be expanded to emulated
 | Game | Map | BattleDex | Quests |
 |---|:---:|:---:|:---:|
 | Breath of Fire III | ✓ | ✓ | |
+| Breath of Fire IV | soon |  | |
 
 
 
