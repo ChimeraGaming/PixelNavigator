@@ -18,10 +18,24 @@ Pixel Navigator explores whether a similar concept could be expanded to emulated
 
 ## Game List
 
-### Game Boy Advance
+<details>
+<summary><strong>Game Boy / Game Boy Color</strong></summary>
+
+<br>
 
 | Game | Map | BattleDex | Quests | Shiny Starter |
-|---|:---:|:---:|:---:|:---:|
+|---|:-:|:-:|:-:|:-:|
+| Pokémon Crystal Awakening | ✓ | ✓ |  | ✓ |
+
+</details>
+
+<details>
+<summary><strong>Game Boy Advance</strong></summary>
+
+<br>
+
+| Game | Map | BattleDex | Quests | Shiny Starter |
+|---|:-:|:-:|:-:|:-:|
 | Pokémon Clover | ✓ | ✓ |  | ✓ |
 | Pokémon Crown | ✓ | ✓ | 50% | ✓ |
 | Pokémon Unbound | ✓ | ✓ | 50% | ✓ |
@@ -35,7 +49,7 @@ Pixel Navigator explores whether a similar concept could be expanded to emulated
 | Pokémon Gaia | ✓ | ✓ |  | ✓ |
 | Pokémon Radical Red | ✓ | ✓ |  | ✓ |
 | Pokémon Evolved | ✓ | ✓ |  | ✓ |
-| Pokémon HLW | ✓ |  |  | ✓ |
+| Pokémon HLW | ✓ | ✓ |  | ✓ |
 | Pokémon Odyssey II | ✓ | ✓ |  | ✓ |
 | Pokémon Glazed | ✓ | ✓ |  | ✓ |
 | Pokémon Hearth | ✓ |  |  | ✓ |
@@ -44,34 +58,49 @@ Pixel Navigator explores whether a similar concept could be expanded to emulated
 | Pokémon Lazarus | ✓ | ✓ |  |  |
 | Pokémon Elite Redux | ✓ |  |  | ✓ |
 | Pokémon Sunset Edition |  |  |  |  |
+| Pokémon Wishes of Tomorrow | ✓ | ✓ | 50% | ✓ |
 | Pokémon Emerald Seaglass | ✓ |  |  | ✓ |
-| Pokémon Hyper Emerald: Lost Artifacts | ✓ | ✓ | | ✓ |
+| Pokémon Hyper Emerald: Lost Artifacts | ✓ | ✓ |  | ✓ |
 | Mariomon | ✓ | ✓ |  | ✓ |
+| Castlevania: Circle of the Moon | ✓ | N/A |  | N/A |
 | Dragon Ball Z: The Legacy of Goku | ✓ | N/A |  | N/A |
 | Dragon Ball Z: The Legacy of Goku II |  | N/A |  | N/A |
-| Dragon Ball Z: Buu's Fury | ✓ | N/A |  | N/A |
+| Dragon Ball Z: Buu’s Fury | ✓ | N/A |  | N/A |
+| Kingdom Hearts: Chain of Memories | ✓ | N/A |  | N/A |
+| Metroid Fusion | ✓ | N/A |  | N/A |
+| Mega Man Battle Network 1 |  | N/A |  | N/A |
 | The Legend of Zelda: The Minish Cap | ✓ | N/A |  | N/A |
 | The Legend of Zelda: A Link to the Past & Four Swords |  | N/A |  | N/A |
 | Classic NES Series: The Legend of Zelda |  | N/A |  | N/A |
 | Classic NES Series: Zelda II – The Adventure of Link |  | N/A |  | N/A |
 
-### Game Boy / Game Boy Color
+</details>
+
+<details>
+<summary><strong>PlayStation</strong></summary>
+
+<br>
 
 | Game | Map | BattleDex | Quests | Shiny Starter |
-|---|:---:|:---:|:---:|:---:|
-| Pokémon Crystal Awakening | ✓ | ✓ |  | ✓ |
+|---|:-:|:-:|:-:|:-:|
+| Breath of Fire III | ✓ | ✓ |  | N/A |
+| Breath of Fire IV | ✓ | ✓ |  | N/A |
 
-### PlayStation
+</details>
 
-| Game | Map | BattleDex | Quests |
-|---|:---:|:---:|:---:|
-| Breath of Fire III | ✓ | ✓ | |
-| Breath of Fire IV | soon |  | |
+<details>
+<summary><strong>PlayStation 2</strong></summary>
 
+<br>
 
+No games currently listed.
 
-✓ means supported. Blank means not available yet. N/A means the feature does not apply. 50% means I've found quest data but have not decoded reliably.
+</details>
 
+✓ means the feature is implemented.  
+50% means the quest system is exposed but its state model is still being mapped.  
+A blank cell means the feature is not currently supported.  
+N/A means the feature does not apply.
 
 ## Disclaimer
 
