@@ -1,0 +1,3061 @@
+{
+  "format": 1,
+  "rooms": [
+    {
+      "area": 0,
+      "room": 0,
+      "tileset": 96,
+      "width": 544,
+      "height": 224,
+      "file": "0_0.png"
+    },
+    {
+      "area": 0,
+      "room": 1,
+      "tileset": 16,
+      "width": 544,
+      "height": 384,
+      "file": "0_1.png"
+    },
+    {
+      "area": 0,
+      "room": 2,
+      "tileset": 16,
+      "width": 544,
+      "height": 384,
+      "file": "0_2.png"
+    },
+    {
+      "area": 0,
+      "room": 3,
+      "tileset": 11,
+      "width": 544,
+      "height": 224,
+      "file": "0_3.png"
+    },
+    {
+      "area": 0,
+      "room": 4,
+      "tileset": 11,
+      "width": 544,
+      "height": 224,
+      "file": "0_4.png"
+    },
+    {
+      "area": 0,
+      "room": 5,
+      "tileset": 11,
+      "width": 304,
+      "height": 224,
+      "file": "0_5.png"
+    },
+    {
+      "area": 0,
+      "room": 6,
+      "tileset": 30,
+      "width": 304,
+      "height": 704,
+      "file": "0_6.png"
+    },
+    {
+      "area": 0,
+      "room": 7,
+      "tileset": 8,
+      "width": 544,
+      "height": 384,
+      "file": "0_7.png"
+    },
+    {
+      "area": 0,
+      "room": 8,
+      "tileset": 13,
+      "width": 304,
+      "height": 224,
+      "file": "0_8.png"
+    },
+    {
+      "area": 0,
+      "room": 9,
+      "tileset": 10,
+      "width": 304,
+      "height": 224,
+      "file": "0_9.png"
+    },
+    {
+      "area": 0,
+      "room": 10,
+      "tileset": 28,
+      "width": 544,
+      "height": 384,
+      "file": "0_10.png"
+    },
+    {
+      "area": 0,
+      "room": 11,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "0_11.png"
+    },
+    {
+      "area": 0,
+      "room": 12,
+      "tileset": 28,
+      "width": 544,
+      "height": 384,
+      "file": "0_12.png"
+    },
+    {
+      "area": 0,
+      "room": 13,
+      "tileset": 26,
+      "width": 784,
+      "height": 544,
+      "file": "0_13.png"
+    },
+    {
+      "area": 0,
+      "room": 14,
+      "tileset": 27,
+      "width": 784,
+      "height": 224,
+      "file": "0_14.png"
+    },
+    {
+      "area": 0,
+      "room": 15,
+      "tileset": 60,
+      "width": 304,
+      "height": 544,
+      "file": "0_15.png"
+    },
+    {
+      "area": 0,
+      "room": 16,
+      "tileset": 10,
+      "width": 304,
+      "height": 224,
+      "file": "0_16.png"
+    },
+    {
+      "area": 0,
+      "room": 17,
+      "tileset": 84,
+      "width": 304,
+      "height": 704,
+      "file": "0_17.png"
+    },
+    {
+      "area": 0,
+      "room": 18,
+      "tileset": 18,
+      "width": 304,
+      "height": 704,
+      "file": "0_18.png"
+    },
+    {
+      "area": 0,
+      "room": 19,
+      "tileset": 29,
+      "width": 304,
+      "height": 384,
+      "file": "0_19.png"
+    },
+    {
+      "area": 0,
+      "room": 20,
+      "tileset": 18,
+      "width": 544,
+      "height": 544,
+      "file": "0_20.png"
+    },
+    {
+      "area": 0,
+      "room": 21,
+      "tileset": 18,
+      "width": 544,
+      "height": 544,
+      "file": "0_21.png"
+    },
+    {
+      "area": 0,
+      "room": 22,
+      "tileset": 27,
+      "width": 304,
+      "height": 544,
+      "file": "0_22.png"
+    },
+    {
+      "area": 0,
+      "room": 23,
+      "tileset": 50,
+      "width": 544,
+      "height": 384,
+      "file": "0_23.png"
+    },
+    {
+      "area": 0,
+      "room": 24,
+      "tileset": 79,
+      "width": 784,
+      "height": 384,
+      "file": "0_24.png"
+    },
+    {
+      "area": 0,
+      "room": 25,
+      "tileset": 35,
+      "width": 304,
+      "height": 384,
+      "file": "0_25.png"
+    },
+    {
+      "area": 0,
+      "room": 26,
+      "tileset": 37,
+      "width": 304,
+      "height": 384,
+      "file": "0_26.png"
+    },
+    {
+      "area": 0,
+      "room": 27,
+      "tileset": 39,
+      "width": 304,
+      "height": 384,
+      "file": "0_27.png"
+    },
+    {
+      "area": 0,
+      "room": 28,
+      "tileset": 17,
+      "width": 304,
+      "height": 384,
+      "file": "0_28.png"
+    },
+    {
+      "area": 0,
+      "room": 29,
+      "tileset": 36,
+      "width": 304,
+      "height": 384,
+      "file": "0_29.png"
+    },
+    {
+      "area": 0,
+      "room": 30,
+      "tileset": 38,
+      "width": 304,
+      "height": 384,
+      "file": "0_30.png"
+    },
+    {
+      "area": 0,
+      "room": 31,
+      "tileset": 27,
+      "width": 544,
+      "height": 224,
+      "file": "0_31.png"
+    },
+    {
+      "area": 0,
+      "room": 32,
+      "tileset": 10,
+      "width": 304,
+      "height": 224,
+      "file": "0_32.png"
+    },
+    {
+      "area": 0,
+      "room": 33,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "0_33.png"
+    },
+    {
+      "area": 0,
+      "room": 34,
+      "tileset": 17,
+      "width": 304,
+      "height": 224,
+      "file": "0_34.png"
+    },
+    {
+      "area": 0,
+      "room": 35,
+      "tileset": 27,
+      "width": 304,
+      "height": 1184,
+      "file": "0_35.png"
+    },
+    {
+      "area": 0,
+      "room": 36,
+      "tileset": 27,
+      "width": 304,
+      "height": 224,
+      "file": "0_36.png"
+    },
+    {
+      "area": 0,
+      "room": 37,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "0_37.png"
+    },
+    {
+      "area": 0,
+      "room": 38,
+      "tileset": 19,
+      "width": 1024,
+      "height": 544,
+      "file": "0_38.png"
+    },
+    {
+      "area": 0,
+      "room": 39,
+      "tileset": 15,
+      "width": 304,
+      "height": 224,
+      "file": "0_39.png"
+    },
+    {
+      "area": 0,
+      "room": 40,
+      "tileset": 29,
+      "width": 304,
+      "height": 384,
+      "file": "0_40.png"
+    },
+    {
+      "area": 0,
+      "room": 41,
+      "tileset": 8,
+      "width": 544,
+      "height": 224,
+      "file": "0_41.png"
+    },
+    {
+      "area": 0,
+      "room": 42,
+      "tileset": 8,
+      "width": 544,
+      "height": 224,
+      "file": "0_42.png"
+    },
+    {
+      "area": 0,
+      "room": 43,
+      "tileset": 17,
+      "width": 304,
+      "height": 224,
+      "file": "0_43.png"
+    },
+    {
+      "area": 0,
+      "room": 44,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "0_44.png"
+    },
+    {
+      "area": 0,
+      "room": 45,
+      "tileset": 27,
+      "width": 304,
+      "height": 224,
+      "file": "0_45.png"
+    },
+    {
+      "area": 0,
+      "room": 46,
+      "tileset": 70,
+      "width": 544,
+      "height": 224,
+      "file": "0_46.png"
+    },
+    {
+      "area": 0,
+      "room": 47,
+      "tileset": 27,
+      "width": 1504,
+      "height": 224,
+      "file": "0_47.png"
+    },
+    {
+      "area": 0,
+      "room": 48,
+      "tileset": 56,
+      "width": 304,
+      "height": 704,
+      "file": "0_48.png"
+    },
+    {
+      "area": 0,
+      "room": 49,
+      "tileset": 54,
+      "width": 544,
+      "height": 1024,
+      "file": "0_49.png"
+    },
+    {
+      "area": 0,
+      "room": 50,
+      "tileset": 56,
+      "width": 1024,
+      "height": 224,
+      "file": "0_50.png"
+    },
+    {
+      "area": 0,
+      "room": 51,
+      "tileset": 56,
+      "width": 544,
+      "height": 864,
+      "file": "0_51.png"
+    },
+    {
+      "area": 0,
+      "room": 52,
+      "tileset": 56,
+      "width": 304,
+      "height": 224,
+      "file": "0_52.png"
+    },
+    {
+      "area": 0,
+      "room": 53,
+      "tileset": 56,
+      "width": 304,
+      "height": 384,
+      "file": "0_53.png"
+    },
+    {
+      "area": 0,
+      "room": 54,
+      "tileset": 56,
+      "width": 304,
+      "height": 224,
+      "file": "0_54.png"
+    },
+    {
+      "area": 0,
+      "room": 55,
+      "tileset": 54,
+      "width": 304,
+      "height": 224,
+      "file": "0_55.png"
+    },
+    {
+      "area": 0,
+      "room": 56,
+      "tileset": 10,
+      "width": 304,
+      "height": 224,
+      "file": "0_56.png"
+    },
+    {
+      "area": 0,
+      "room": 57,
+      "tileset": 18,
+      "width": 304,
+      "height": 224,
+      "file": "0_57.png"
+    },
+    {
+      "area": 0,
+      "room": 58,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "0_58.png"
+    },
+    {
+      "area": 0,
+      "room": 59,
+      "tileset": 55,
+      "width": 544,
+      "height": 1024,
+      "file": "0_59.png"
+    },
+    {
+      "area": 0,
+      "room": 60,
+      "tileset": 6,
+      "width": 304,
+      "height": 384,
+      "file": "0_60.png"
+    },
+    {
+      "area": 0,
+      "room": 61,
+      "tileset": 6,
+      "width": 304,
+      "height": 384,
+      "file": "0_61.png"
+    },
+    {
+      "area": 0,
+      "room": 62,
+      "tileset": 66,
+      "width": 304,
+      "height": 384,
+      "file": "0_62.png"
+    },
+    {
+      "area": 0,
+      "room": 63,
+      "tileset": 97,
+      "width": 544,
+      "height": 224,
+      "file": "0_63.png"
+    },
+    {
+      "area": 0,
+      "room": 64,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "0_64.png"
+    },
+    {
+      "area": 0,
+      "room": 65,
+      "tileset": 66,
+      "width": 544,
+      "height": 224,
+      "file": "0_65.png"
+    },
+    {
+      "area": 0,
+      "room": 66,
+      "tileset": 10,
+      "width": 304,
+      "height": 224,
+      "file": "0_66.png"
+    },
+    {
+      "area": 0,
+      "room": 67,
+      "tileset": 17,
+      "width": 304,
+      "height": 384,
+      "file": "0_67.png"
+    },
+    {
+      "area": 0,
+      "room": 68,
+      "tileset": 55,
+      "width": 304,
+      "height": 224,
+      "file": "0_68.png"
+    },
+    {
+      "area": 0,
+      "room": 69,
+      "tileset": 61,
+      "width": 784,
+      "height": 544,
+      "file": "0_69.png"
+    },
+    {
+      "area": 0,
+      "room": 70,
+      "tileset": 18,
+      "width": 304,
+      "height": 224,
+      "file": "0_70.png"
+    },
+    {
+      "area": 0,
+      "room": 71,
+      "tileset": 69,
+      "width": 544,
+      "height": 224,
+      "file": "0_71.png"
+    },
+    {
+      "area": 0,
+      "room": 72,
+      "tileset": 18,
+      "width": 304,
+      "height": 224,
+      "file": "0_72.png"
+    },
+    {
+      "area": 0,
+      "room": 73,
+      "tileset": 27,
+      "width": 304,
+      "height": 224,
+      "file": "0_73.png"
+    },
+    {
+      "area": 0,
+      "room": 74,
+      "tileset": 63,
+      "width": 784,
+      "height": 544,
+      "file": "0_74.png"
+    },
+    {
+      "area": 0,
+      "room": 75,
+      "tileset": 6,
+      "width": 304,
+      "height": 384,
+      "file": "0_75.png"
+    },
+    {
+      "area": 0,
+      "room": 76,
+      "tileset": 6,
+      "width": 304,
+      "height": 384,
+      "file": "0_76.png"
+    },
+    {
+      "area": 0,
+      "room": 77,
+      "tileset": 84,
+      "width": 304,
+      "height": 704,
+      "file": "0_77.png"
+    },
+    {
+      "area": 0,
+      "room": 78,
+      "tileset": 80,
+      "width": 304,
+      "height": 704,
+      "file": "0_78.png"
+    },
+    {
+      "area": 0,
+      "room": 79,
+      "tileset": 85,
+      "width": 304,
+      "height": 704,
+      "file": "0_79.png"
+    },
+    {
+      "area": 0,
+      "room": 80,
+      "tileset": 83,
+      "width": 304,
+      "height": 384,
+      "file": "0_80.png"
+    },
+    {
+      "area": 0,
+      "room": 81,
+      "tileset": 13,
+      "width": 304,
+      "height": 224,
+      "file": "0_81.png"
+    },
+    {
+      "area": 0,
+      "room": 82,
+      "tileset": 89,
+      "width": 544,
+      "height": 224,
+      "file": "0_82.png"
+    },
+    {
+      "area": 0,
+      "room": 83,
+      "tileset": 56,
+      "width": 304,
+      "height": 704,
+      "file": "0_83.png"
+    },
+    {
+      "area": 0,
+      "room": 84,
+      "tileset": 19,
+      "width": 304,
+      "height": 224,
+      "file": "0_84.png"
+    },
+    {
+      "area": 0,
+      "room": 85,
+      "tileset": 26,
+      "width": 784,
+      "height": 544,
+      "file": "0_85.png"
+    },
+    {
+      "area": 0,
+      "room": 86,
+      "tileset": 7,
+      "width": 304,
+      "height": 544,
+      "file": "0_86.png"
+    },
+    {
+      "area": 1,
+      "room": 0,
+      "tileset": 20,
+      "width": 544,
+      "height": 384,
+      "file": "1_0.png"
+    },
+    {
+      "area": 1,
+      "room": 1,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "1_1.png"
+    },
+    {
+      "area": 1,
+      "room": 2,
+      "tileset": 10,
+      "width": 304,
+      "height": 224,
+      "file": "1_2.png"
+    },
+    {
+      "area": 1,
+      "room": 3,
+      "tileset": 11,
+      "width": 784,
+      "height": 224,
+      "file": "1_3.png"
+    },
+    {
+      "area": 1,
+      "room": 4,
+      "tileset": 41,
+      "width": 544,
+      "height": 384,
+      "file": "1_4.png"
+    },
+    {
+      "area": 1,
+      "room": 5,
+      "tileset": 41,
+      "width": 544,
+      "height": 224,
+      "file": "1_5.png"
+    },
+    {
+      "area": 1,
+      "room": 6,
+      "tileset": 30,
+      "width": 304,
+      "height": 544,
+      "file": "1_6.png"
+    },
+    {
+      "area": 1,
+      "room": 7,
+      "tileset": 41,
+      "width": 1264,
+      "height": 224,
+      "file": "1_7.png"
+    },
+    {
+      "area": 1,
+      "room": 8,
+      "tileset": 30,
+      "width": 304,
+      "height": 1024,
+      "file": "1_8.png"
+    },
+    {
+      "area": 1,
+      "room": 9,
+      "tileset": 41,
+      "width": 544,
+      "height": 384,
+      "file": "1_9.png"
+    },
+    {
+      "area": 1,
+      "room": 10,
+      "tileset": 46,
+      "width": 304,
+      "height": 384,
+      "file": "1_10.png"
+    },
+    {
+      "area": 1,
+      "room": 11,
+      "tileset": 13,
+      "width": 304,
+      "height": 224,
+      "file": "1_11.png"
+    },
+    {
+      "area": 1,
+      "room": 12,
+      "tileset": 41,
+      "width": 304,
+      "height": 224,
+      "file": "1_12.png"
+    },
+    {
+      "area": 1,
+      "room": 13,
+      "tileset": 41,
+      "width": 544,
+      "height": 384,
+      "file": "1_13.png"
+    },
+    {
+      "area": 1,
+      "room": 14,
+      "tileset": 11,
+      "width": 304,
+      "height": 224,
+      "file": "1_14.png"
+    },
+    {
+      "area": 1,
+      "room": 15,
+      "tileset": 41,
+      "width": 544,
+      "height": 384,
+      "file": "1_15.png"
+    },
+    {
+      "area": 1,
+      "room": 16,
+      "tileset": 30,
+      "width": 304,
+      "height": 704,
+      "file": "1_16.png"
+    },
+    {
+      "area": 1,
+      "room": 17,
+      "tileset": 14,
+      "width": 784,
+      "height": 384,
+      "file": "1_17.png"
+    },
+    {
+      "area": 1,
+      "room": 18,
+      "tileset": 88,
+      "width": 304,
+      "height": 704,
+      "file": "1_18.png"
+    },
+    {
+      "area": 1,
+      "room": 19,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "1_19.png"
+    },
+    {
+      "area": 1,
+      "room": 20,
+      "tileset": 14,
+      "width": 544,
+      "height": 544,
+      "file": "1_20.png"
+    },
+    {
+      "area": 1,
+      "room": 21,
+      "tileset": 88,
+      "width": 304,
+      "height": 704,
+      "file": "1_21.png"
+    },
+    {
+      "area": 1,
+      "room": 22,
+      "tileset": 88,
+      "width": 544,
+      "height": 224,
+      "file": "1_22.png"
+    },
+    {
+      "area": 1,
+      "room": 23,
+      "tileset": 88,
+      "width": 304,
+      "height": 544,
+      "file": "1_23.png"
+    },
+    {
+      "area": 1,
+      "room": 24,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "1_24.png"
+    },
+    {
+      "area": 1,
+      "room": 25,
+      "tileset": 88,
+      "width": 544,
+      "height": 224,
+      "file": "1_25.png"
+    },
+    {
+      "area": 1,
+      "room": 26,
+      "tileset": 88,
+      "width": 544,
+      "height": 224,
+      "file": "1_26.png"
+    },
+    {
+      "area": 1,
+      "room": 27,
+      "tileset": 4,
+      "width": 304,
+      "height": 384,
+      "file": "1_27.png"
+    },
+    {
+      "area": 1,
+      "room": 28,
+      "tileset": 88,
+      "width": 304,
+      "height": 224,
+      "file": "1_28.png"
+    },
+    {
+      "area": 1,
+      "room": 29,
+      "tileset": 88,
+      "width": 544,
+      "height": 224,
+      "file": "1_29.png"
+    },
+    {
+      "area": 1,
+      "room": 30,
+      "tileset": 88,
+      "width": 544,
+      "height": 384,
+      "file": "1_30.png"
+    },
+    {
+      "area": 1,
+      "room": 31,
+      "tileset": 35,
+      "width": 304,
+      "height": 384,
+      "file": "1_31.png"
+    },
+    {
+      "area": 1,
+      "room": 32,
+      "tileset": 41,
+      "width": 544,
+      "height": 384,
+      "file": "1_32.png"
+    },
+    {
+      "area": 1,
+      "room": 33,
+      "tileset": 30,
+      "width": 304,
+      "height": 544,
+      "file": "1_33.png"
+    },
+    {
+      "area": 1,
+      "room": 34,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "1_34.png"
+    },
+    {
+      "area": 1,
+      "room": 35,
+      "tileset": 30,
+      "width": 304,
+      "height": 704,
+      "file": "1_35.png"
+    },
+    {
+      "area": 1,
+      "room": 36,
+      "tileset": 88,
+      "width": 784,
+      "height": 224,
+      "file": "1_36.png"
+    },
+    {
+      "area": 1,
+      "room": 37,
+      "tileset": 46,
+      "width": 304,
+      "height": 384,
+      "file": "1_37.png"
+    },
+    {
+      "area": 1,
+      "room": 38,
+      "tileset": 41,
+      "width": 784,
+      "height": 224,
+      "file": "1_38.png"
+    },
+    {
+      "area": 1,
+      "room": 39,
+      "tileset": 41,
+      "width": 544,
+      "height": 384,
+      "file": "1_39.png"
+    },
+    {
+      "area": 1,
+      "room": 40,
+      "tileset": 87,
+      "width": 544,
+      "height": 544,
+      "file": "1_40.png"
+    },
+    {
+      "area": 1,
+      "room": 41,
+      "tileset": 73,
+      "width": 304,
+      "height": 384,
+      "file": "1_41.png"
+    },
+    {
+      "area": 1,
+      "room": 42,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "1_42.png"
+    },
+    {
+      "area": 1,
+      "room": 43,
+      "tileset": 41,
+      "width": 304,
+      "height": 224,
+      "file": "1_43.png"
+    },
+    {
+      "area": 1,
+      "room": 44,
+      "tileset": 41,
+      "width": 304,
+      "height": 224,
+      "file": "1_44.png"
+    },
+    {
+      "area": 1,
+      "room": 45,
+      "tileset": 41,
+      "width": 304,
+      "height": 224,
+      "file": "1_45.png"
+    },
+    {
+      "area": 1,
+      "room": 46,
+      "tileset": 41,
+      "width": 304,
+      "height": 224,
+      "file": "1_46.png"
+    },
+    {
+      "area": 1,
+      "room": 47,
+      "tileset": 41,
+      "width": 304,
+      "height": 384,
+      "file": "1_47.png"
+    },
+    {
+      "area": 1,
+      "room": 48,
+      "tileset": 94,
+      "width": 304,
+      "height": 224,
+      "file": "1_48.png"
+    },
+    {
+      "area": 1,
+      "room": 49,
+      "tileset": 94,
+      "width": 304,
+      "height": 224,
+      "file": "1_49.png"
+    },
+    {
+      "area": 1,
+      "room": 50,
+      "tileset": 30,
+      "width": 304,
+      "height": 544,
+      "file": "1_50.png"
+    },
+    {
+      "area": 1,
+      "room": 51,
+      "tileset": 88,
+      "width": 544,
+      "height": 224,
+      "file": "1_51.png"
+    },
+    {
+      "area": 1,
+      "room": 52,
+      "tileset": 88,
+      "width": 304,
+      "height": 224,
+      "file": "1_52.png"
+    },
+    {
+      "area": 1,
+      "room": 53,
+      "tileset": 2,
+      "width": 304,
+      "height": 384,
+      "file": "1_53.png"
+    },
+    {
+      "area": 2,
+      "room": 0,
+      "tileset": 21,
+      "width": 544,
+      "height": 704,
+      "file": "2_0.png"
+    },
+    {
+      "area": 2,
+      "room": 1,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "2_1.png"
+    },
+    {
+      "area": 2,
+      "room": 2,
+      "tileset": 10,
+      "width": 304,
+      "height": 224,
+      "file": "2_2.png"
+    },
+    {
+      "area": 2,
+      "room": 3,
+      "tileset": 31,
+      "width": 544,
+      "height": 224,
+      "file": "2_3.png"
+    },
+    {
+      "area": 2,
+      "room": 4,
+      "tileset": 31,
+      "width": 544,
+      "height": 224,
+      "file": "2_4.png"
+    },
+    {
+      "area": 2,
+      "room": 5,
+      "tileset": 32,
+      "width": 544,
+      "height": 544,
+      "file": "2_5.png"
+    },
+    {
+      "area": 2,
+      "room": 6,
+      "tileset": 31,
+      "width": 544,
+      "height": 224,
+      "file": "2_6.png"
+    },
+    {
+      "area": 2,
+      "room": 7,
+      "tileset": 31,
+      "width": 544,
+      "height": 384,
+      "file": "2_7.png"
+    },
+    {
+      "area": 2,
+      "room": 8,
+      "tileset": 15,
+      "width": 304,
+      "height": 224,
+      "file": "2_8.png"
+    },
+    {
+      "area": 2,
+      "room": 9,
+      "tileset": 31,
+      "width": 544,
+      "height": 1024,
+      "file": "2_9.png"
+    },
+    {
+      "area": 2,
+      "room": 10,
+      "tileset": 32,
+      "width": 544,
+      "height": 704,
+      "file": "2_10.png"
+    },
+    {
+      "area": 2,
+      "room": 11,
+      "tileset": 67,
+      "width": 784,
+      "height": 224,
+      "file": "2_11.png"
+    },
+    {
+      "area": 2,
+      "room": 12,
+      "tileset": 67,
+      "width": 304,
+      "height": 384,
+      "file": "2_12.png"
+    },
+    {
+      "area": 2,
+      "room": 13,
+      "tileset": 31,
+      "width": 304,
+      "height": 1344,
+      "file": "2_13.png"
+    },
+    {
+      "area": 2,
+      "room": 14,
+      "tileset": 31,
+      "width": 544,
+      "height": 224,
+      "file": "2_14.png"
+    },
+    {
+      "area": 2,
+      "room": 15,
+      "tileset": 32,
+      "width": 544,
+      "height": 224,
+      "file": "2_15.png"
+    },
+    {
+      "area": 2,
+      "room": 16,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "2_16.png"
+    },
+    {
+      "area": 2,
+      "room": 17,
+      "tileset": 64,
+      "width": 784,
+      "height": 384,
+      "file": "2_17.png"
+    },
+    {
+      "area": 2,
+      "room": 18,
+      "tileset": 65,
+      "width": 784,
+      "height": 384,
+      "file": "2_18.png"
+    },
+    {
+      "area": 2,
+      "room": 19,
+      "tileset": 32,
+      "width": 304,
+      "height": 544,
+      "file": "2_19.png"
+    },
+    {
+      "area": 2,
+      "room": 20,
+      "tileset": 58,
+      "width": 1024,
+      "height": 544,
+      "file": "2_20.png"
+    },
+    {
+      "area": 2,
+      "room": 21,
+      "tileset": 32,
+      "width": 544,
+      "height": 224,
+      "file": "2_21.png"
+    },
+    {
+      "area": 2,
+      "room": 22,
+      "tileset": 59,
+      "width": 544,
+      "height": 384,
+      "file": "2_22.png"
+    },
+    {
+      "area": 2,
+      "room": 23,
+      "tileset": 31,
+      "width": 544,
+      "height": 224,
+      "file": "2_23.png"
+    },
+    {
+      "area": 2,
+      "room": 24,
+      "tileset": 58,
+      "width": 544,
+      "height": 384,
+      "file": "2_24.png"
+    },
+    {
+      "area": 2,
+      "room": 25,
+      "tileset": 32,
+      "width": 304,
+      "height": 224,
+      "file": "2_25.png"
+    },
+    {
+      "area": 2,
+      "room": 26,
+      "tileset": 45,
+      "width": 544,
+      "height": 384,
+      "file": "2_26.png"
+    },
+    {
+      "area": 2,
+      "room": 27,
+      "tileset": 31,
+      "width": 544,
+      "height": 384,
+      "file": "2_27.png"
+    },
+    {
+      "area": 2,
+      "room": 28,
+      "tileset": 11,
+      "width": 304,
+      "height": 224,
+      "file": "2_28.png"
+    },
+    {
+      "area": 2,
+      "room": 29,
+      "tileset": 74,
+      "width": 304,
+      "height": 384,
+      "file": "2_29.png"
+    },
+    {
+      "area": 2,
+      "room": 30,
+      "tileset": 31,
+      "width": 544,
+      "height": 224,
+      "file": "2_30.png"
+    },
+    {
+      "area": 2,
+      "room": 31,
+      "tileset": 31,
+      "width": 784,
+      "height": 544,
+      "file": "2_31.png"
+    },
+    {
+      "area": 2,
+      "room": 32,
+      "tileset": 58,
+      "width": 304,
+      "height": 1184,
+      "file": "2_32.png"
+    },
+    {
+      "area": 2,
+      "room": 33,
+      "tileset": 31,
+      "width": 784,
+      "height": 224,
+      "file": "2_33.png"
+    },
+    {
+      "area": 2,
+      "room": 34,
+      "tileset": 95,
+      "width": 1024,
+      "height": 544,
+      "file": "2_34.png"
+    },
+    {
+      "area": 2,
+      "room": 35,
+      "tileset": 95,
+      "width": 304,
+      "height": 1184,
+      "file": "2_35.png"
+    },
+    {
+      "area": 2,
+      "room": 36,
+      "tileset": 95,
+      "width": 544,
+      "height": 384,
+      "file": "2_36.png"
+    },
+    {
+      "area": 2,
+      "room": 37,
+      "tileset": 13,
+      "width": 304,
+      "height": 224,
+      "file": "2_37.png"
+    },
+    {
+      "area": 2,
+      "room": 38,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "2_38.png"
+    },
+    {
+      "area": 2,
+      "room": 39,
+      "tileset": 67,
+      "width": 304,
+      "height": 224,
+      "file": "2_39.png"
+    },
+    {
+      "area": 2,
+      "room": 40,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "2_40.png"
+    },
+    {
+      "area": 2,
+      "room": 41,
+      "tileset": 72,
+      "width": 544,
+      "height": 224,
+      "file": "2_41.png"
+    },
+    {
+      "area": 2,
+      "room": 42,
+      "tileset": 32,
+      "width": 544,
+      "height": 384,
+      "file": "2_42.png"
+    },
+    {
+      "area": 2,
+      "room": 43,
+      "tileset": 30,
+      "width": 304,
+      "height": 384,
+      "file": "2_43.png"
+    },
+    {
+      "area": 2,
+      "room": 44,
+      "tileset": 31,
+      "width": 544,
+      "height": 384,
+      "file": "2_44.png"
+    },
+    {
+      "area": 2,
+      "room": 45,
+      "tileset": 72,
+      "width": 544,
+      "height": 224,
+      "file": "2_45.png"
+    },
+    {
+      "area": 2,
+      "room": 46,
+      "tileset": 31,
+      "width": 304,
+      "height": 1344,
+      "file": "2_46.png"
+    },
+    {
+      "area": 2,
+      "room": 47,
+      "tileset": 67,
+      "width": 544,
+      "height": 704,
+      "file": "2_47.png"
+    },
+    {
+      "area": 2,
+      "room": 48,
+      "tileset": 13,
+      "width": 304,
+      "height": 224,
+      "file": "2_48.png"
+    },
+    {
+      "area": 2,
+      "room": 49,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "2_49.png"
+    },
+    {
+      "area": 2,
+      "room": 50,
+      "tileset": 67,
+      "width": 304,
+      "height": 544,
+      "file": "2_50.png"
+    },
+    {
+      "area": 2,
+      "room": 51,
+      "tileset": 92,
+      "width": 544,
+      "height": 384,
+      "file": "2_51.png"
+    },
+    {
+      "area": 2,
+      "room": 52,
+      "tileset": 94,
+      "width": 304,
+      "height": 224,
+      "file": "2_52.png"
+    },
+    {
+      "area": 2,
+      "room": 53,
+      "tileset": 94,
+      "width": 304,
+      "height": 224,
+      "file": "2_53.png"
+    },
+    {
+      "area": 2,
+      "room": 54,
+      "tileset": 31,
+      "width": 784,
+      "height": 384,
+      "file": "2_54.png"
+    },
+    {
+      "area": 2,
+      "room": 55,
+      "tileset": 9,
+      "width": 784,
+      "height": 544,
+      "file": "2_55.png"
+    },
+    {
+      "area": 2,
+      "room": 56,
+      "tileset": 58,
+      "width": 544,
+      "height": 224,
+      "file": "2_56.png"
+    },
+    {
+      "area": 2,
+      "room": 57,
+      "tileset": 58,
+      "width": 784,
+      "height": 384,
+      "file": "2_57.png"
+    },
+    {
+      "area": 2,
+      "room": 58,
+      "tileset": 95,
+      "width": 784,
+      "height": 384,
+      "file": "2_58.png"
+    },
+    {
+      "area": 2,
+      "room": 59,
+      "tileset": 72,
+      "width": 304,
+      "height": 224,
+      "file": "2_59.png"
+    },
+    {
+      "area": 2,
+      "room": 60,
+      "tileset": 95,
+      "width": 544,
+      "height": 224,
+      "file": "2_60.png"
+    },
+    {
+      "area": 3,
+      "room": 0,
+      "tileset": 22,
+      "width": 544,
+      "height": 704,
+      "file": "3_0.png"
+    },
+    {
+      "area": 3,
+      "room": 1,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "3_1.png"
+    },
+    {
+      "area": 3,
+      "room": 2,
+      "tileset": 10,
+      "width": 304,
+      "height": 224,
+      "file": "3_2.png"
+    },
+    {
+      "area": 3,
+      "room": 3,
+      "tileset": 33,
+      "width": 1024,
+      "height": 384,
+      "file": "3_3.png"
+    },
+    {
+      "area": 3,
+      "room": 4,
+      "tileset": 45,
+      "width": 304,
+      "height": 224,
+      "file": "3_4.png"
+    },
+    {
+      "area": 3,
+      "room": 5,
+      "tileset": 33,
+      "width": 304,
+      "height": 544,
+      "file": "3_5.png"
+    },
+    {
+      "area": 3,
+      "room": 6,
+      "tileset": 34,
+      "width": 544,
+      "height": 384,
+      "file": "3_6.png"
+    },
+    {
+      "area": 3,
+      "room": 7,
+      "tileset": 34,
+      "width": 784,
+      "height": 224,
+      "file": "3_7.png"
+    },
+    {
+      "area": 3,
+      "room": 8,
+      "tileset": 33,
+      "width": 784,
+      "height": 384,
+      "file": "3_8.png"
+    },
+    {
+      "area": 3,
+      "room": 9,
+      "tileset": 34,
+      "width": 1264,
+      "height": 384,
+      "file": "3_9.png"
+    },
+    {
+      "area": 3,
+      "room": 10,
+      "tileset": 40,
+      "width": 304,
+      "height": 1184,
+      "file": "3_10.png"
+    },
+    {
+      "area": 3,
+      "room": 11,
+      "tileset": 42,
+      "width": 1024,
+      "height": 384,
+      "file": "3_11.png"
+    },
+    {
+      "area": 3,
+      "room": 12,
+      "tileset": 42,
+      "width": 544,
+      "height": 704,
+      "file": "3_12.png"
+    },
+    {
+      "area": 3,
+      "room": 13,
+      "tileset": 42,
+      "width": 304,
+      "height": 224,
+      "file": "3_13.png"
+    },
+    {
+      "area": 3,
+      "room": 14,
+      "tileset": 40,
+      "width": 304,
+      "height": 384,
+      "file": "3_14.png"
+    },
+    {
+      "area": 3,
+      "room": 15,
+      "tileset": 42,
+      "width": 544,
+      "height": 544,
+      "file": "3_15.png"
+    },
+    {
+      "area": 3,
+      "room": 16,
+      "tileset": 42,
+      "width": 304,
+      "height": 224,
+      "file": "3_16.png"
+    },
+    {
+      "area": 3,
+      "room": 17,
+      "tileset": 82,
+      "width": 544,
+      "height": 384,
+      "file": "3_17.png"
+    },
+    {
+      "area": 3,
+      "room": 18,
+      "tileset": 34,
+      "width": 544,
+      "height": 384,
+      "file": "3_18.png"
+    },
+    {
+      "area": 3,
+      "room": 19,
+      "tileset": 42,
+      "width": 1024,
+      "height": 544,
+      "file": "3_19.png"
+    },
+    {
+      "area": 3,
+      "room": 20,
+      "tileset": 75,
+      "width": 304,
+      "height": 384,
+      "file": "3_20.png"
+    },
+    {
+      "area": 3,
+      "room": 21,
+      "tileset": 15,
+      "width": 304,
+      "height": 224,
+      "file": "3_21.png"
+    },
+    {
+      "area": 3,
+      "room": 22,
+      "tileset": 34,
+      "width": 784,
+      "height": 384,
+      "file": "3_22.png"
+    },
+    {
+      "area": 3,
+      "room": 23,
+      "tileset": 34,
+      "width": 544,
+      "height": 384,
+      "file": "3_23.png"
+    },
+    {
+      "area": 3,
+      "room": 24,
+      "tileset": 34,
+      "width": 544,
+      "height": 384,
+      "file": "3_24.png"
+    },
+    {
+      "area": 3,
+      "room": 25,
+      "tileset": 51,
+      "width": 544,
+      "height": 384,
+      "file": "3_25.png"
+    },
+    {
+      "area": 3,
+      "room": 26,
+      "tileset": 13,
+      "width": 304,
+      "height": 224,
+      "file": "3_26.png"
+    },
+    {
+      "area": 3,
+      "room": 27,
+      "tileset": 42,
+      "width": 1024,
+      "height": 224,
+      "file": "3_27.png"
+    },
+    {
+      "area": 3,
+      "room": 28,
+      "tileset": 40,
+      "width": 784,
+      "height": 704,
+      "file": "3_28.png"
+    },
+    {
+      "area": 3,
+      "room": 29,
+      "tileset": 71,
+      "width": 544,
+      "height": 384,
+      "file": "3_29.png"
+    },
+    {
+      "area": 3,
+      "room": 30,
+      "tileset": 33,
+      "width": 544,
+      "height": 384,
+      "file": "3_30.png"
+    },
+    {
+      "area": 3,
+      "room": 31,
+      "tileset": 13,
+      "width": 304,
+      "height": 224,
+      "file": "3_31.png"
+    },
+    {
+      "area": 3,
+      "room": 32,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "3_32.png"
+    },
+    {
+      "area": 3,
+      "room": 33,
+      "tileset": 11,
+      "width": 304,
+      "height": 224,
+      "file": "3_33.png"
+    },
+    {
+      "area": 3,
+      "room": 34,
+      "tileset": 40,
+      "width": 544,
+      "height": 384,
+      "file": "3_34.png"
+    },
+    {
+      "area": 3,
+      "room": 35,
+      "tileset": 42,
+      "width": 304,
+      "height": 1824,
+      "file": "3_35.png"
+    },
+    {
+      "area": 3,
+      "room": 36,
+      "tileset": 34,
+      "width": 544,
+      "height": 224,
+      "file": "3_36.png"
+    },
+    {
+      "area": 3,
+      "room": 37,
+      "tileset": 94,
+      "width": 304,
+      "height": 224,
+      "file": "3_37.png"
+    },
+    {
+      "area": 3,
+      "room": 38,
+      "tileset": 94,
+      "width": 304,
+      "height": 224,
+      "file": "3_38.png"
+    },
+    {
+      "area": 4,
+      "room": 0,
+      "tileset": 23,
+      "width": 544,
+      "height": 384,
+      "file": "4_0.png"
+    },
+    {
+      "area": 4,
+      "room": 1,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "4_1.png"
+    },
+    {
+      "area": 4,
+      "room": 2,
+      "tileset": 10,
+      "width": 304,
+      "height": 224,
+      "file": "4_2.png"
+    },
+    {
+      "area": 4,
+      "room": 3,
+      "tileset": 30,
+      "width": 544,
+      "height": 384,
+      "file": "4_3.png"
+    },
+    {
+      "area": 4,
+      "room": 4,
+      "tileset": 15,
+      "width": 304,
+      "height": 224,
+      "file": "4_4.png"
+    },
+    {
+      "area": 4,
+      "room": 5,
+      "tileset": 11,
+      "width": 304,
+      "height": 224,
+      "file": "4_5.png"
+    },
+    {
+      "area": 4,
+      "room": 6,
+      "tileset": 47,
+      "width": 784,
+      "height": 544,
+      "file": "4_6.png"
+    },
+    {
+      "area": 4,
+      "room": 7,
+      "tileset": 43,
+      "width": 544,
+      "height": 384,
+      "file": "4_7.png"
+    },
+    {
+      "area": 4,
+      "room": 8,
+      "tileset": 43,
+      "width": 784,
+      "height": 544,
+      "file": "4_8.png"
+    },
+    {
+      "area": 4,
+      "room": 9,
+      "tileset": 43,
+      "width": 784,
+      "height": 224,
+      "file": "4_9.png"
+    },
+    {
+      "area": 4,
+      "room": 10,
+      "tileset": 91,
+      "width": 304,
+      "height": 544,
+      "file": "4_10.png"
+    },
+    {
+      "area": 4,
+      "room": 11,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "4_11.png"
+    },
+    {
+      "area": 4,
+      "room": 12,
+      "tileset": 52,
+      "width": 1024,
+      "height": 224,
+      "file": "4_12.png"
+    },
+    {
+      "area": 4,
+      "room": 13,
+      "tileset": 43,
+      "width": 784,
+      "height": 544,
+      "file": "4_13.png"
+    },
+    {
+      "area": 4,
+      "room": 14,
+      "tileset": 52,
+      "width": 304,
+      "height": 864,
+      "file": "4_14.png"
+    },
+    {
+      "area": 4,
+      "room": 15,
+      "tileset": 52,
+      "width": 784,
+      "height": 224,
+      "file": "4_15.png"
+    },
+    {
+      "area": 4,
+      "room": 16,
+      "tileset": 52,
+      "width": 304,
+      "height": 544,
+      "file": "4_16.png"
+    },
+    {
+      "area": 4,
+      "room": 17,
+      "tileset": 52,
+      "width": 784,
+      "height": 384,
+      "file": "4_17.png"
+    },
+    {
+      "area": 4,
+      "room": 18,
+      "tileset": 52,
+      "width": 304,
+      "height": 224,
+      "file": "4_18.png"
+    },
+    {
+      "area": 4,
+      "room": 19,
+      "tileset": 52,
+      "width": 544,
+      "height": 544,
+      "file": "4_19.png"
+    },
+    {
+      "area": 4,
+      "room": 20,
+      "tileset": 47,
+      "width": 1024,
+      "height": 384,
+      "file": "4_20.png"
+    },
+    {
+      "area": 4,
+      "room": 21,
+      "tileset": 47,
+      "width": 304,
+      "height": 1024,
+      "file": "4_21.png"
+    },
+    {
+      "area": 4,
+      "room": 22,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "4_22.png"
+    },
+    {
+      "area": 4,
+      "room": 23,
+      "tileset": 47,
+      "width": 1024,
+      "height": 384,
+      "file": "4_23.png"
+    },
+    {
+      "area": 4,
+      "room": 24,
+      "tileset": 52,
+      "width": 784,
+      "height": 384,
+      "file": "4_24.png"
+    },
+    {
+      "area": 4,
+      "room": 25,
+      "tileset": 52,
+      "width": 304,
+      "height": 704,
+      "file": "4_25.png"
+    },
+    {
+      "area": 4,
+      "room": 26,
+      "tileset": 45,
+      "width": 304,
+      "height": 224,
+      "file": "4_26.png"
+    },
+    {
+      "area": 4,
+      "room": 27,
+      "tileset": 76,
+      "width": 304,
+      "height": 384,
+      "file": "4_27.png"
+    },
+    {
+      "area": 4,
+      "room": 28,
+      "tileset": 43,
+      "width": 544,
+      "height": 224,
+      "file": "4_28.png"
+    },
+    {
+      "area": 4,
+      "room": 29,
+      "tileset": 13,
+      "width": 304,
+      "height": 224,
+      "file": "4_29.png"
+    },
+    {
+      "area": 4,
+      "room": 30,
+      "tileset": 47,
+      "width": 304,
+      "height": 544,
+      "file": "4_30.png"
+    },
+    {
+      "area": 4,
+      "room": 31,
+      "tileset": 90,
+      "width": 544,
+      "height": 224,
+      "file": "4_31.png"
+    },
+    {
+      "area": 4,
+      "room": 32,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "4_32.png"
+    },
+    {
+      "area": 4,
+      "room": 33,
+      "tileset": 86,
+      "width": 1024,
+      "height": 384,
+      "file": "4_33.png"
+    },
+    {
+      "area": 4,
+      "room": 34,
+      "tileset": 52,
+      "width": 544,
+      "height": 704,
+      "file": "4_34.png"
+    },
+    {
+      "area": 4,
+      "room": 35,
+      "tileset": 43,
+      "width": 304,
+      "height": 1184,
+      "file": "4_35.png"
+    },
+    {
+      "area": 4,
+      "room": 36,
+      "tileset": 47,
+      "width": 544,
+      "height": 384,
+      "file": "4_36.png"
+    },
+    {
+      "area": 4,
+      "room": 37,
+      "tileset": 47,
+      "width": 304,
+      "height": 224,
+      "file": "4_37.png"
+    },
+    {
+      "area": 4,
+      "room": 38,
+      "tileset": 52,
+      "width": 784,
+      "height": 224,
+      "file": "4_38.png"
+    },
+    {
+      "area": 4,
+      "room": 39,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "4_39.png"
+    },
+    {
+      "area": 4,
+      "room": 40,
+      "tileset": 52,
+      "width": 304,
+      "height": 384,
+      "file": "4_40.png"
+    },
+    {
+      "area": 4,
+      "room": 41,
+      "tileset": 52,
+      "width": 304,
+      "height": 224,
+      "file": "4_41.png"
+    },
+    {
+      "area": 4,
+      "room": 42,
+      "tileset": 81,
+      "width": 1024,
+      "height": 544,
+      "file": "4_42.png"
+    },
+    {
+      "area": 4,
+      "room": 43,
+      "tileset": 94,
+      "width": 304,
+      "height": 224,
+      "file": "4_43.png"
+    },
+    {
+      "area": 4,
+      "room": 44,
+      "tileset": 94,
+      "width": 304,
+      "height": 224,
+      "file": "4_44.png"
+    },
+    {
+      "area": 4,
+      "room": 45,
+      "tileset": 47,
+      "width": 304,
+      "height": 224,
+      "file": "4_45.png"
+    },
+    {
+      "area": 4,
+      "room": 46,
+      "tileset": 47,
+      "width": 304,
+      "height": 224,
+      "file": "4_46.png"
+    },
+    {
+      "area": 4,
+      "room": 47,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "4_47.png"
+    },
+    {
+      "area": 5,
+      "room": 0,
+      "tileset": 24,
+      "width": 544,
+      "height": 544,
+      "file": "5_0.png"
+    },
+    {
+      "area": 5,
+      "room": 1,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "5_1.png"
+    },
+    {
+      "area": 5,
+      "room": 2,
+      "tileset": 10,
+      "width": 304,
+      "height": 224,
+      "file": "5_2.png"
+    },
+    {
+      "area": 5,
+      "room": 3,
+      "tileset": 48,
+      "width": 784,
+      "height": 704,
+      "file": "5_3.png"
+    },
+    {
+      "area": 5,
+      "room": 4,
+      "tileset": 48,
+      "width": 544,
+      "height": 224,
+      "file": "5_4.png"
+    },
+    {
+      "area": 5,
+      "room": 5,
+      "tileset": 15,
+      "width": 304,
+      "height": 224,
+      "file": "5_5.png"
+    },
+    {
+      "area": 5,
+      "room": 6,
+      "tileset": 48,
+      "width": 784,
+      "height": 704,
+      "file": "5_6.png"
+    },
+    {
+      "area": 5,
+      "room": 7,
+      "tileset": 49,
+      "width": 784,
+      "height": 864,
+      "file": "5_7.png"
+    },
+    {
+      "area": 5,
+      "room": 8,
+      "tileset": 49,
+      "width": 544,
+      "height": 224,
+      "file": "5_8.png"
+    },
+    {
+      "area": 5,
+      "room": 9,
+      "tileset": 49,
+      "width": 304,
+      "height": 864,
+      "file": "5_9.png"
+    },
+    {
+      "area": 5,
+      "room": 10,
+      "tileset": 45,
+      "width": 304,
+      "height": 224,
+      "file": "5_10.png"
+    },
+    {
+      "area": 5,
+      "room": 11,
+      "tileset": 49,
+      "width": 304,
+      "height": 224,
+      "file": "5_11.png"
+    },
+    {
+      "area": 5,
+      "room": 12,
+      "tileset": 11,
+      "width": 304,
+      "height": 224,
+      "file": "5_12.png"
+    },
+    {
+      "area": 5,
+      "room": 13,
+      "tileset": 49,
+      "width": 304,
+      "height": 1024,
+      "file": "5_13.png"
+    },
+    {
+      "area": 5,
+      "room": 14,
+      "tileset": 49,
+      "width": 304,
+      "height": 224,
+      "file": "5_14.png"
+    },
+    {
+      "area": 5,
+      "room": 15,
+      "tileset": 48,
+      "width": 784,
+      "height": 864,
+      "file": "5_15.png"
+    },
+    {
+      "area": 5,
+      "room": 16,
+      "tileset": 15,
+      "width": 304,
+      "height": 384,
+      "file": "5_16.png"
+    },
+    {
+      "area": 5,
+      "room": 17,
+      "tileset": 48,
+      "width": 784,
+      "height": 384,
+      "file": "5_17.png"
+    },
+    {
+      "area": 5,
+      "room": 18,
+      "tileset": 48,
+      "width": 544,
+      "height": 544,
+      "file": "5_18.png"
+    },
+    {
+      "area": 5,
+      "room": 19,
+      "tileset": 48,
+      "width": 544,
+      "height": 384,
+      "file": "5_19.png"
+    },
+    {
+      "area": 5,
+      "room": 20,
+      "tileset": 57,
+      "width": 544,
+      "height": 384,
+      "file": "5_20.png"
+    },
+    {
+      "area": 5,
+      "room": 21,
+      "tileset": 49,
+      "width": 304,
+      "height": 864,
+      "file": "5_21.png"
+    },
+    {
+      "area": 5,
+      "room": 22,
+      "tileset": 49,
+      "width": 304,
+      "height": 864,
+      "file": "5_22.png"
+    },
+    {
+      "area": 5,
+      "room": 23,
+      "tileset": 48,
+      "width": 304,
+      "height": 224,
+      "file": "5_23.png"
+    },
+    {
+      "area": 5,
+      "room": 24,
+      "tileset": 67,
+      "width": 304,
+      "height": 704,
+      "file": "5_24.png"
+    },
+    {
+      "area": 5,
+      "room": 25,
+      "tileset": 77,
+      "width": 304,
+      "height": 384,
+      "file": "5_25.png"
+    },
+    {
+      "area": 5,
+      "room": 26,
+      "tileset": 49,
+      "width": 784,
+      "height": 224,
+      "file": "5_26.png"
+    },
+    {
+      "area": 5,
+      "room": 27,
+      "tileset": 48,
+      "width": 544,
+      "height": 224,
+      "file": "5_27.png"
+    },
+    {
+      "area": 5,
+      "room": 28,
+      "tileset": 48,
+      "width": 304,
+      "height": 384,
+      "file": "5_28.png"
+    },
+    {
+      "area": 5,
+      "room": 29,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "5_29.png"
+    },
+    {
+      "area": 5,
+      "room": 30,
+      "tileset": 48,
+      "width": 544,
+      "height": 224,
+      "file": "5_30.png"
+    },
+    {
+      "area": 5,
+      "room": 31,
+      "tileset": 94,
+      "width": 304,
+      "height": 224,
+      "file": "5_31.png"
+    },
+    {
+      "area": 5,
+      "room": 32,
+      "tileset": 13,
+      "width": 304,
+      "height": 224,
+      "file": "5_32.png"
+    },
+    {
+      "area": 5,
+      "room": 33,
+      "tileset": 48,
+      "width": 304,
+      "height": 224,
+      "file": "5_33.png"
+    },
+    {
+      "area": 5,
+      "room": 34,
+      "tileset": 48,
+      "width": 304,
+      "height": 224,
+      "file": "5_34.png"
+    },
+    {
+      "area": 5,
+      "room": 35,
+      "tileset": 48,
+      "width": 304,
+      "height": 224,
+      "file": "5_35.png"
+    },
+    {
+      "area": 5,
+      "room": 36,
+      "tileset": 48,
+      "width": 304,
+      "height": 704,
+      "file": "5_36.png"
+    },
+    {
+      "area": 5,
+      "room": 37,
+      "tileset": 94,
+      "width": 304,
+      "height": 224,
+      "file": "5_37.png"
+    },
+    {
+      "area": 5,
+      "room": 38,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "5_38.png"
+    },
+    {
+      "area": 5,
+      "room": 39,
+      "tileset": 48,
+      "width": 784,
+      "height": 224,
+      "file": "5_39.png"
+    },
+    {
+      "area": 5,
+      "room": 40,
+      "tileset": 48,
+      "width": 784,
+      "height": 224,
+      "file": "5_40.png"
+    },
+    {
+      "area": 5,
+      "room": 41,
+      "tileset": 48,
+      "width": 544,
+      "height": 224,
+      "file": "5_41.png"
+    },
+    {
+      "area": 5,
+      "room": 42,
+      "tileset": 49,
+      "width": 544,
+      "height": 384,
+      "file": "5_42.png"
+    },
+    {
+      "area": 5,
+      "room": 43,
+      "tileset": 68,
+      "width": 1024,
+      "height": 224,
+      "file": "5_43.png"
+    },
+    {
+      "area": 5,
+      "room": 44,
+      "tileset": 49,
+      "width": 304,
+      "height": 1024,
+      "file": "5_44.png"
+    },
+    {
+      "area": 5,
+      "room": 45,
+      "tileset": 48,
+      "width": 304,
+      "height": 704,
+      "file": "5_45.png"
+    },
+    {
+      "area": 5,
+      "room": 46,
+      "tileset": 67,
+      "width": 784,
+      "height": 384,
+      "file": "5_46.png"
+    },
+    {
+      "area": 5,
+      "room": 47,
+      "tileset": 48,
+      "width": 304,
+      "height": 224,
+      "file": "5_47.png"
+    },
+    {
+      "area": 5,
+      "room": 48,
+      "tileset": 13,
+      "width": 304,
+      "height": 224,
+      "file": "5_48.png"
+    },
+    {
+      "area": 5,
+      "room": 49,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "5_49.png"
+    },
+    {
+      "area": 5,
+      "room": 50,
+      "tileset": 67,
+      "width": 784,
+      "height": 384,
+      "file": "5_50.png"
+    },
+    {
+      "area": 5,
+      "room": 51,
+      "tileset": 49,
+      "width": 304,
+      "height": 544,
+      "file": "5_51.png"
+    },
+    {
+      "area": 6,
+      "room": 0,
+      "tileset": 25,
+      "width": 784,
+      "height": 384,
+      "file": "6_0.png"
+    },
+    {
+      "area": 6,
+      "room": 1,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "6_1.png"
+    },
+    {
+      "area": 6,
+      "room": 2,
+      "tileset": 10,
+      "width": 304,
+      "height": 224,
+      "file": "6_2.png"
+    },
+    {
+      "area": 6,
+      "room": 3,
+      "tileset": 44,
+      "width": 544,
+      "height": 384,
+      "file": "6_3.png"
+    },
+    {
+      "area": 6,
+      "room": 4,
+      "tileset": 44,
+      "width": 544,
+      "height": 224,
+      "file": "6_4.png"
+    },
+    {
+      "area": 6,
+      "room": 5,
+      "tileset": 44,
+      "width": 544,
+      "height": 704,
+      "file": "6_5.png"
+    },
+    {
+      "area": 6,
+      "room": 6,
+      "tileset": 44,
+      "width": 544,
+      "height": 224,
+      "file": "6_6.png"
+    },
+    {
+      "area": 6,
+      "room": 7,
+      "tileset": 44,
+      "width": 784,
+      "height": 224,
+      "file": "6_7.png"
+    },
+    {
+      "area": 6,
+      "room": 8,
+      "tileset": 44,
+      "width": 784,
+      "height": 544,
+      "file": "6_8.png"
+    },
+    {
+      "area": 6,
+      "room": 9,
+      "tileset": 62,
+      "width": 1024,
+      "height": 384,
+      "file": "6_9.png"
+    },
+    {
+      "area": 6,
+      "room": 10,
+      "tileset": 44,
+      "width": 304,
+      "height": 384,
+      "file": "6_10.png"
+    },
+    {
+      "area": 6,
+      "room": 11,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "6_11.png"
+    },
+    {
+      "area": 6,
+      "room": 12,
+      "tileset": 62,
+      "width": 544,
+      "height": 224,
+      "file": "6_12.png"
+    },
+    {
+      "area": 6,
+      "room": 13,
+      "tileset": 62,
+      "width": 544,
+      "height": 544,
+      "file": "6_13.png"
+    },
+    {
+      "area": 6,
+      "room": 14,
+      "tileset": 44,
+      "width": 544,
+      "height": 384,
+      "file": "6_14.png"
+    },
+    {
+      "area": 6,
+      "room": 15,
+      "tileset": 62,
+      "width": 304,
+      "height": 224,
+      "file": "6_15.png"
+    },
+    {
+      "area": 6,
+      "room": 16,
+      "tileset": 93,
+      "width": 544,
+      "height": 384,
+      "file": "6_16.png"
+    },
+    {
+      "area": 6,
+      "room": 17,
+      "tileset": 78,
+      "width": 304,
+      "height": 384,
+      "file": "6_17.png"
+    },
+    {
+      "area": 6,
+      "room": 18,
+      "tileset": 62,
+      "width": 544,
+      "height": 384,
+      "file": "6_18.png"
+    },
+    {
+      "area": 6,
+      "room": 19,
+      "tileset": 62,
+      "width": 544,
+      "height": 384,
+      "file": "6_19.png"
+    },
+    {
+      "area": 6,
+      "room": 20,
+      "tileset": 62,
+      "width": 304,
+      "height": 544,
+      "file": "6_20.png"
+    },
+    {
+      "area": 6,
+      "room": 21,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "6_21.png"
+    },
+    {
+      "area": 6,
+      "room": 22,
+      "tileset": 3,
+      "width": 784,
+      "height": 224,
+      "file": "6_22.png"
+    },
+    {
+      "area": 6,
+      "room": 23,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "6_23.png"
+    },
+    {
+      "area": 6,
+      "room": 24,
+      "tileset": 11,
+      "width": 544,
+      "height": 224,
+      "file": "6_24.png"
+    },
+    {
+      "area": 6,
+      "room": 25,
+      "tileset": 15,
+      "width": 304,
+      "height": 224,
+      "file": "6_25.png"
+    },
+    {
+      "area": 6,
+      "room": 26,
+      "tileset": 72,
+      "width": 304,
+      "height": 384,
+      "file": "6_26.png"
+    },
+    {
+      "area": 6,
+      "room": 27,
+      "tileset": 72,
+      "width": 784,
+      "height": 384,
+      "file": "6_27.png"
+    },
+    {
+      "area": 6,
+      "room": 28,
+      "tileset": 72,
+      "width": 544,
+      "height": 224,
+      "file": "6_28.png"
+    },
+    {
+      "area": 6,
+      "room": 29,
+      "tileset": 13,
+      "width": 304,
+      "height": 224,
+      "file": "6_29.png"
+    },
+    {
+      "area": 6,
+      "room": 30,
+      "tileset": 62,
+      "width": 544,
+      "height": 704,
+      "file": "6_30.png"
+    },
+    {
+      "area": 6,
+      "room": 31,
+      "tileset": 62,
+      "width": 304,
+      "height": 704,
+      "file": "6_31.png"
+    },
+    {
+      "area": 6,
+      "room": 32,
+      "tileset": 30,
+      "width": 304,
+      "height": 384,
+      "file": "6_32.png"
+    },
+    {
+      "area": 6,
+      "room": 33,
+      "tileset": 62,
+      "width": 1024,
+      "height": 384,
+      "file": "6_33.png"
+    },
+    {
+      "area": 6,
+      "room": 34,
+      "tileset": 67,
+      "width": 304,
+      "height": 224,
+      "file": "6_34.png"
+    },
+    {
+      "area": 6,
+      "room": 35,
+      "tileset": 12,
+      "width": 304,
+      "height": 224,
+      "file": "6_35.png"
+    },
+    {
+      "area": 6,
+      "room": 36,
+      "tileset": 94,
+      "width": 304,
+      "height": 224,
+      "file": "6_36.png"
+    },
+    {
+      "area": 6,
+      "room": 37,
+      "tileset": 94,
+      "width": 304,
+      "height": 224,
+      "file": "6_37.png"
+    },
+    {
+      "area": 6,
+      "room": 38,
+      "tileset": 67,
+      "width": 784,
+      "height": 224,
+      "file": "6_38.png"
+    },
+    {
+      "area": 6,
+      "room": 39,
+      "tileset": 67,
+      "width": 1024,
+      "height": 544,
+      "file": "6_39.png"
+    },
+    {
+      "area": 6,
+      "room": 40,
+      "tileset": 11,
+      "width": 544,
+      "height": 224,
+      "file": "6_40.png"
+    }
+  ]
+}
