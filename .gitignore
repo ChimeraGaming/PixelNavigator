@@ -1,8 +1,7 @@
-/Archive/
-/recovery/
-/build/
-/Tools/
-/Android/build/
-*.idsig
-/Archive.zip
-/Archive.zip.partial
+# Only public map packages, ROM-hacking files, and documentation belong in this repository.
+/*
+!/.gitignore
+!/Maps/
+!/Romhacking/
+!/First_Steps.md
+!/README.md
