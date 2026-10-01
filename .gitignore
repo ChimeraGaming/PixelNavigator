@@ -1,0 +1,8 @@
+/Archive/
+/recovery/
+/build/
+/Tools/
+/Android/build/
+*.idsig
+/Archive.zip
+/Archive.zip.partial
