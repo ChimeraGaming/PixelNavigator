@@ -63,8 +63,10 @@ Pixel Navigator explores whether a similar concept could be expanded to emulated
 | Pokémon Hyper Emerald: Lost Artifacts | ✓ | ✓ |  | ✓ |
 | Mariomon | ✓ | ✓ |  | ✓ |
 | Castlevania: Circle of the Moon | ✓ | N/A |  | N/A |
+| Castlevania: Aria of Sorrow | ✓ | N/A |  | N/A |
+| Castlevania: Harmony of Dissonance | ✓ | N/A |  | N/A |
 | Dragon Ball Z: The Legacy of Goku | ✓ | N/A |  | N/A |
-| Dragon Ball Z: The Legacy of Goku II |  | N/A |  | N/A |
+| Dragon Ball Z: The Legacy of Goku II | ✓ | N/A |  | N/A |
 | Dragon Ball Z: Buu’s Fury | ✓ | N/A |  | N/A |
 | Kingdom Hearts: Chain of Memories | ✓ | N/A |  | N/A |
 | Metroid Fusion | ✓ | N/A |  | N/A |
