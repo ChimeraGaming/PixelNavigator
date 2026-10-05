@@ -72,7 +72,7 @@ Pixel Navigator explores whether a similar concept could be expanded to emulated
 | Metroid Fusion | ✓ | N/A |  | N/A |
 | Classic NES Series: Metroid | ✓ | N/A |  | N/A |
 | Metroid: Zero Mission | ✓ | N/A |  | N/A |
-| Mega Man Battle Network 1 |  | N/A |  | N/A |
+| Mega Man Battle Network 1 | ✓ | N/A |  | N/A |
 | The Legend of Zelda: The Minish Cap | ✓ | N/A |  | N/A |
 | The Legend of Zelda: A Link to the Past & Four Swords |  | N/A |  | N/A |
 | Classic NES Series: The Legend of Zelda |  | N/A |  | N/A |
