@@ -61,7 +61,7 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | Pokémon Wishes of Tomorrow | ✓ | ✓ | ✓ |  |  |  |
 | Pokémon Emerald Seaglass | ✓ |  | ✓ |  |  |  |
 | Pokémon Hyper Emerald: Lost Artifacts | ✓ | ✓ | ✓ |  |  |  |
-| Mariomon | ✓ | ✓ | ✓ |  |  |  |
+| Mariomon | ✓ | ✓ | ✓ |  |  | ✓ |
 | Breath of Fire | ✓ | ✓ | N/A | N/A | N/A | N/A |
 | Castlevania: Circle of the Moon | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Castlevania: Aria of Sorrow | ✓ | N/A | N/A | N/A | N/A | N/A |
@@ -86,10 +86,10 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 
 <br>
 
-| Game | Map | BattleDex | Shiny Starter | Bag | Party | Badges |
-| --- | :-: | :-: | :-: | :-: | :-: | :-: |
-| Breath of Fire III | ✓ | ✓ | N/A | N/A | N/A | N/A |
-| Breath of Fire IV | ✓ | ✓ | N/A | N/A | N/A | N/A |
+| Game | Map | BattleDex |
+| --- | :-: | :-: |
+| Breath of Fire III | ✓ | ✓ |
+| Breath of Fire IV | ✓ | ✓ |
 
 </details>
 
