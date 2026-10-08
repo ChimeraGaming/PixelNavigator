@@ -111,6 +111,16 @@ N/A means the feature does not apply.
 
 Format references include [BOF3 decompilation documentation](https://github.com/loopyd/bof3-decompilation) and [BOF source](https://github.com/Normmatt/bof). BOF3 boss sheets came from [The Spriters Resource](https://www.spriters-resource.com/playstation/breathoffire3/); route guidance references [DavidK5's walkthrough](https://gamefaqs.gamespot.com/ps/196817-breath-of-fire-iii/faqs/18685). BOF1 cover art came from [LaunchBox](https://gamesdb.launchbox-app.com/games/images/3174-breath-of-fire).
 
+## License and ownership
+
+Copyright © 2026 ChimeraGaming. All rights reserved.
+
+PixelNavigator is currently proprietary. Its original application source remains private. Official, unmodified releases may be installed and used for personal, noncommercial use. Copying the original code, modifying or redistributing the app, and commercial use require express written permission from ChimeraGaming, except where applicable law or third-party licenses provide otherwise. Share official release links instead of redistributing APKs.
+
+Community documents carry separate permissions only when expressly stated. ChimeraGaming intends to release the original source code under an open-source license upon completion of development. The current proprietary license remains in effect until that release is expressly published under a specified open-source license.
+
+These terms cover only ChimeraGaming's original materials. Third-party game artwork, extracted maps and data, trademarks, and dependencies remain subject to their respective owners' rights and applicable licenses. See [LICENSE.txt](LICENSE.txt) for the full terms.
+
 ## Disclaimer
 
 Pixel Navigator is an independent project.
