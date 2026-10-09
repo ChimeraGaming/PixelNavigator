@@ -1,6 +1,6 @@
 # Pixel Navigator
 
-[![Release v0.4.3](https://img.shields.io/badge/release-v0.4.3-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/PixelNavigator/releases)
+[![Release v0.4.4](https://img.shields.io/badge/release-v0.4.4-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/PixelNavigator/releases)
 ![Android](https://img.shields.io/badge/Android-compatible-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 [![Star this repository](https://img.shields.io/github/stars/ChimeraGaming/PixelNavigator?style=for-the-badge&logo=github&label=STAR%20THIS%20REPOSITORY&color=f5c542)](https://github.com/ChimeraGaming/PixelNavigator)
 
@@ -16,7 +16,7 @@ Fanmake Pokémon Maps provides maps for Pokémon fangames and can track player m
 
 Pixel Navigator expands that map and player tracking concept to supported ROMs across multiple systems.
 
-## Game List
+## Compatibility Chart
 
 <details>
 <summary><strong>Game Boy / Game Boy Color</strong></summary>
@@ -38,7 +38,7 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | --- | :-: | :-: | :-: | :-: | :-: | :-: |
 | Pokémon Clover | ✓ | ✓ | ✓ |  |  |  |
 | Pokémon Crown | ✓ | ✓ | ✓ |  |  | ✓ |
-| Pokémon Unbound | ✓ | ✓ | ✓ |  |  |  |
+| Pokémon Unbound | ✓ | ✓ | ✓ | ✓ | ✓ |  |
 | Pokémon Emerald Rogue | ✓ | ✓ | ✓ |  |  |  |
 | Pokémon Odyssey | ✓ | ✓ | ✓ |  |  |  |
 | Pokémon SoulGold | ✓ | ✓ | ✓ |  |  |  |
@@ -69,6 +69,7 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | Dragon Ball Z: The Legacy of Goku | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Dragon Ball Z: The Legacy of Goku II | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Dragon Ball Z: Buu’s Fury | ✓ | N/A | N/A | N/A | N/A | N/A |
+| Golden Sun | ✓ | ✓ | N/A | N/A | N/A | N/A |
 | Kingdom Hearts: Chain of Memories | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Metroid Fusion | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Classic NES Series: Metroid | ✓ | N/A | N/A | N/A | N/A | N/A |
@@ -110,6 +111,8 @@ N/A means the feature does not apply.
 ## References
 
 Format references include [BOF3 decompilation documentation](https://github.com/loopyd/bof3-decompilation) and [BOF source](https://github.com/Normmatt/bof). BOF3 boss sheets came from [The Spriters Resource](https://www.spriters-resource.com/playstation/breathoffire3/); route guidance references [DavidK5's walkthrough](https://gamefaqs.gamespot.com/ps/196817-breath-of-fire-iii/faqs/18685). BOF1 cover art came from [LaunchBox](https://gamesdb.launchbox-app.com/games/images/3174-breath-of-fire).
+
+Golden Sun format reference: [Golden Sun decompilation](https://github.com/Coaltergeist/goldensun-decomp). Maps and sprites use original game data.
 
 ## License and ownership
 
