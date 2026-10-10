@@ -99,7 +99,9 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 
 <br>
 
-No games currently listed.
+| Game | Map | BattleDex |
+| --- | :-: | :-: |
+| Breath of Fire: Dragon Quarter | ✓ | Preview |
 
 </details>
 
