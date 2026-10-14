@@ -112,14 +112,6 @@ Bag and Party refer to live inventory and party data; a checkmark does not imply
 A blank cell means the feature is unsupported, unfinished or not fully verified.  
 N/A means the feature does not apply.
 
-The main chart does not cover every map feature. These are the current details for the two newest Pokémon trackers:
-
-| Game | Map items | Actors and follower | Land encounters | Surf encounters | Fishing encounters | Live party |
-| --- | :-: | :-: | :-: | :-: | :-: | :-: |
-| Pokémon Water Blue v1.4ml | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Sunset Edition v1.0.5 |  |  |  |  |  |  |
-
-Water Blue's encounter panel uses terrain-specific tables, and its party reader supports all six slots. Sunset has BattleDex support and bundled map, item and overworld sprite data; its live map behavior is still being verified. Map item markers are separate from the Bag inventory screen.
 
 ## References
 
