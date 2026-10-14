@@ -25,7 +25,7 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 
 | Game | Map | BattleDex | Shiny Starter | Bag | Party | Badges |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: |
-| Pokémon Crystal Awakening | ✓ | ✓ | ✓ |  |  |  |
+| Pokémon Crystal Awakening | ✓ | ✓ | ✓ | ✓ | ✓ |  |
 
 </details>
 
@@ -36,10 +36,10 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 
 | Game | Map | BattleDex | Shiny Starter | Bag | Party | Badges |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: |
-| Pokémon Clover | ✓ | ✓ | ✓ |  |  |  |
-| Pokémon Crown | ✓ | ✓ | ✓ |  |  | ✓ |
+| Pokémon Clover | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| Pokémon Crown | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Unbound | ✓ | ✓ | ✓ | ✓ | ✓ |  |
-| Pokémon Emerald Rogue | ✓ | ✓ | ✓ |  |  |  |
+| Pokémon Emerald Rogue | ✓ | ✓ | ✓ | ✓ | ✓ |  |
 | Pokémon Odyssey | ✓ | ✓ | ✓ |  |  |  |
 | Pokémon SoulGold | ✓ | ✓ | ✓ |  |  |  |
 | Pokémon Heart & Soul | ✓ | ✓ | ✓ |  |  |  |
@@ -52,15 +52,16 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | Pokémon HLW | ✓ | ✓ | ✓ |  |  |  |
 | Pokémon Odyssey II | ✓ | ✓ | ✓ |  |  |  |
 | Pokémon Glazed | ✓ | ✓ | ✓ |  |  |  |
-| Pokémon Hearth | ✓ |  | ✓ |  |  |  |
-| Pokémon Palimpsest | ✓ |  | ✓ |  |  |  |
-| Pokémon Dreamstone Mysteries | ✓ |  | ✓ |  |  |  |
-| Pokémon Lazarus | ✓ | ✓ |  |  |  |  |
-| Pokémon Elite Redux | ✓ |  | ✓ |  |  |  |
-| Pokémon Sunset Edition |  |  |  |  |  |  |
+| Pokémon Hearth | ✓ | ✓ | ✓ |  |  |  |
+| Pokémon Palimpsest | ✓ | ✓ | ✓ | ✓ | ✓ | N/A |
+| Pokémon Dreamstone Mysteries | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| Pokémon Lazarus | ✓ | ✓ | N/A |  |  |  |
+| Pokémon Elite Redux | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| Pokémon Sunset Edition | ✓ | ✓ | ✓ |  |  |  |
 | Pokémon Wishes of Tomorrow | ✓ | ✓ | ✓ |  |  |  |
-| Pokémon Emerald Seaglass | ✓ |  | ✓ |  |  |  |
+| Pokémon Emerald Seaglass | ✓ | ✓ | ✓ |  | ✓ |  |
 | Pokémon Hyper Emerald: Lost Artifacts | ✓ | ✓ | ✓ |  |  |  |
+| Pokémon Water Blue (v1.4ml) | ✓ | ✓ | ✓ |  | ✓ |  |
 | Mariomon | ✓ | ✓ | ✓ |  |  | ✓ |
 | Breath of Fire | ✓ | ✓ | N/A | N/A | N/A | N/A |
 | Castlevania: Circle of the Moon | ✓ | N/A | N/A | N/A | N/A | N/A |
@@ -106,9 +107,19 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 </details>
 
 ✓ means the feature is implemented for the supported ROM version.  
-Bag and Party are checked only when their appearance and interactions match the game.  
+Preview means the listed feature is partial or still being verified.  
+Bag and Party refer to live inventory and party data; a checkmark does not imply that the companion screen copies the game's menu appearance.  
 A blank cell means the feature is unsupported, unfinished or not fully verified.  
 N/A means the feature does not apply.
+
+The main chart does not cover every map feature. These are the current details for the two newest Pokémon trackers:
+
+| Game | Map items | Actors and follower | Land encounters | Surf encounters | Fishing encounters | Live party |
+| --- | :-: | :-: | :-: | :-: | :-: | :-: |
+| Pokémon Water Blue v1.4ml | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Sunset Edition v1.0.5 |  |  |  |  |  |  |
+
+Water Blue's encounter panel uses terrain-specific tables, and its party reader supports all six slots. Sunset has BattleDex support and bundled map, item and overworld sprite data; its live map behavior is still being verified. Map item markers are separate from the Bag inventory screen.
 
 ## References
 
