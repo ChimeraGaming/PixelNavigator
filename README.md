@@ -1,6 +1,6 @@
 # Pixel Navigator
 
-[![Release v0.4.5](https://img.shields.io/badge/release-v0.4.5-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/PixelNavigator/releases)
+[![Release v0.4.6](https://img.shields.io/badge/release-v0.4.6-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/PixelNavigator/releases)
 ![Android](https://img.shields.io/badge/Android-compatible-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 [![Star this repository](https://img.shields.io/github/stars/ChimeraGaming/PixelNavigator?style=for-the-badge&logo=github&label=STAR%20THIS%20REPOSITORY&color=f5c542)](https://github.com/ChimeraGaming/PixelNavigator)
 
@@ -26,6 +26,9 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | Game | Map | BattleDex | Shiny Starter | Bag | Party | Badges |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: |
 | Pokémon Crystal Awakening | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| The Legend of Zelda: Oracle of Ages | ✓ | N/A | N/A | N/A | N/A | N/A |
+| The Legend of Zelda: Oracle of Seasons | ✓ | N/A | N/A | N/A | N/A | N/A |
+| Super Mario Bros. Deluxe | ✓ | N/A | N/A | N/A | N/A | N/A |
 
 </details>
 
@@ -76,6 +79,11 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | Classic NES Series: Metroid | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Metroid: Zero Mission | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Mega Man Battle Network 1 | ✓ | N/A | N/A | N/A | N/A | N/A |
+| Mega Man Battle Network 2 | ✓ | N/A | N/A | N/A | N/A | N/A |
+| Mega Man Battle Network 3 Blue | ✓ | N/A | N/A | N/A | N/A | N/A |
+| Mega Man Battle Network 4 Red Sun | ✓ | N/A | N/A | N/A | N/A | N/A |
+| Mega Man Battle Network 5 Team Colonel | ✓ | N/A | N/A | N/A | N/A | N/A |
+| Mega Man Battle Network 6 Cybeast Gregar | ✓ | N/A | N/A | N/A | N/A | N/A |
 | The Legend of Zelda: The Minish Cap | ✓ | N/A | N/A | N/A | N/A | N/A |
 | The Legend of Zelda: A Link to the Past & Four Swords |  | N/A | N/A | N/A | N/A | N/A |
 | Classic NES Series: The Legend of Zelda |  | N/A | N/A | N/A | N/A | N/A |
