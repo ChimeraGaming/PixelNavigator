@@ -65,6 +65,12 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | Pokémon Emerald Seaglass | ✓ | ✓ | ✓ |  | ✓ |  |
 | Pokémon Hyper Emerald: Lost Artifacts | ✓ | ✓ | ✓ |  |  |  |
 | Pokémon Water Blue (v1.4ml) | ✓ | ✓ | ✓ |  | ✓ |  |
+| Pokémon FireRed: Rocket Edition |  |  |  |  |  |  |
+| Pokémon Team Rocket Edition (Dragonsden) |  |  |  |  |  |  |
+| Pokémon Rocket Strike |  |  |  |  |  |  |
+| Pokémon Rocket Science |  |  |  |  |  |  |
+| Pokémon Team Rocket: Jessie & James Edition |  |  |  |  |  |  |
+| Pokémon Fuligin |  |  |  |  |  |  |
 | Mariomon | ✓ | ✓ | ✓ |  |  | ✓ |
 | Breath of Fire | ✓ | ✓ | N/A | N/A | N/A | N/A |
 | Castlevania: Circle of the Moon | ✓ | N/A | N/A | N/A | N/A | N/A |
