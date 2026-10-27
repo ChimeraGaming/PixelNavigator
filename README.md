@@ -66,7 +66,6 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | Pokémon Hyper Emerald: Lost Artifacts | ✓ | ✓ | ✓ |  |  |  |
 | Pokémon Water Blue (v1.4ml) | ✓ | ✓ | ✓ |  | ✓ |  |
 | Pokémon Éclat Pourpre (v2.0.1) | ✓ | ✓ | ✓ | ✓ | ✓ |  |
-| Pokémon FireRed: Rocket Edition |  |  |  |  |  |  |
 | Pokémon Team Rocket Edition (Dragonsden) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Rocket Strike |  |  |  |  |  |  |
 | Pokémon Rocket Science |  |  |  |  |  |  |
