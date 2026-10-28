@@ -73,6 +73,7 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | Pokémon Fuligin |  |  |  |  |  |  |
 | Mariomon | ✓ | ✓ | ✓ |  |  | ✓ |
 | Breath of Fire | ✓ | ✓ | N/A | N/A | N/A | N/A |
+| Breath of Fire II (Fresh Fire + Sound, Europe) | ✓ |  | N/A | N/A | N/A | N/A |
 | Castlevania: Circle of the Moon | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Castlevania: Aria of Sorrow | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Castlevania: Harmony of Dissonance | ✓ | N/A | N/A | N/A | N/A | N/A |
