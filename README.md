@@ -29,6 +29,7 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | The Legend of Zelda: Oracle of Ages | ✓ | N/A | N/A | N/A | N/A | N/A |
 | The Legend of Zelda: Oracle of Seasons | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Super Mario Bros. Deluxe | ✓ | N/A | N/A | N/A | N/A | N/A |
+| Dragon Warrior I & II | ✓ | N/A | N/A | N/A | N/A | N/A |
 
 </details>
 
@@ -64,8 +65,8 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | Pokémon Wishes of Tomorrow | ✓ | ✓ | ✓ |  |  |  |
 | Pokémon Emerald Seaglass | ✓ | ✓ | ✓ |  | ✓ |  |
 | Pokémon Hyper Emerald: Lost Artifacts | ✓ | ✓ | ✓ |  |  |  |
-| Pokémon Water Blue (v1.4ml) | ✓ | ✓ | ✓ |  | ✓ |  |
-| Pokémon Éclat Pourpre (v2.0.1) | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| Pokémon Water Blue | ✓ | ✓ | ✓ |  | ✓ |  |
+| Pokémon Éclat Pourpre | ✓ | ✓ | ✓ | ✓ | ✓ |  |
 | Pokémon Team Rocket Edition (Dragonsden) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Rocket Strike |  |  |  |  |  |  |
 | Pokémon Rocket Science |  |  |  |  |  |  |
@@ -73,11 +74,10 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | Pokémon Fuligin |  |  |  |  |  |  |
 | Mariomon | ✓ | ✓ | ✓ |  |  | ✓ |
 | Breath of Fire | ✓ | ✓ | N/A | N/A | N/A | N/A |
-| Breath of Fire II (Fresh Fire + Sound, Europe) | ✓ |  | N/A | N/A | N/A | N/A |
-| Final Fantasy I & II: Dawn of Souls (Mod of Balance 2.2) | ✓ | N/A | N/A | N/A | N/A | N/A |
-| Final Fantasy IV Advance (Bit Improvement 1.0a) | ✓ | N/A | N/A | N/A | N/A | N/A |
-| Final Fantasy V Advance (Ian's Balance Hack 1.21 + Treasure Table Fix) | ✓ | N/A | N/A | N/A | N/A | N/A |
-| Dragon Warrior I & II (USA, GBC) | ✓ | N/A | N/A | N/A | N/A | N/A |
+| Breath of Fire II | ✓ |  | N/A | N/A | N/A | N/A |
+| Final Fantasy I & II: Dawn of Souls | ✓ | N/A | N/A | N/A | N/A | N/A |
+| Final Fantasy IV Advance | ✓ | N/A | N/A | N/A | N/A | N/A |
+| Final Fantasy V Advance | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Castlevania: Circle of the Moon | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Castlevania: Aria of Sorrow | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Castlevania: Harmony of Dissonance | ✓ | N/A | N/A | N/A | N/A | N/A |
