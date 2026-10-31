@@ -75,6 +75,9 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | Breath of Fire | ✓ | ✓ | N/A | N/A | N/A | N/A |
 | Breath of Fire II (Fresh Fire + Sound, Europe) | ✓ |  | N/A | N/A | N/A | N/A |
 | Final Fantasy I & II: Dawn of Souls (Mod of Balance 2.2) | ✓ | N/A | N/A | N/A | N/A | N/A |
+| Final Fantasy IV Advance (Bit Improvement 1.0a) | ✓ | N/A | N/A | N/A | N/A | N/A |
+| Final Fantasy V Advance (Ian's Balance Hack 1.21 + Treasure Table Fix) | ✓ | N/A | N/A | N/A | N/A | N/A |
+| Dragon Warrior I & II (USA, GBC) | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Castlevania: Circle of the Moon | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Castlevania: Aria of Sorrow | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Castlevania: Harmony of Dissonance | ✓ | N/A | N/A | N/A | N/A | N/A |
