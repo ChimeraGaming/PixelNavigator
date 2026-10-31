@@ -30,6 +30,7 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | The Legend of Zelda: Oracle of Seasons | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Super Mario Bros. Deluxe | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Dragon Warrior I & II | ✓ | N/A | N/A | N/A | N/A | N/A |
+| Dragon Warrior III | ✓ | N/A | N/A | N/A | N/A | N/A |
 
 </details>
 
@@ -78,6 +79,7 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | Final Fantasy I & II: Dawn of Souls | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Final Fantasy IV Advance | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Final Fantasy V Advance | ✓ | N/A | N/A | N/A | N/A | N/A |
+| Final Fantasy VI Advance | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Castlevania: Circle of the Moon | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Castlevania: Aria of Sorrow | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Castlevania: Harmony of Dissonance | ✓ | N/A | N/A | N/A | N/A | N/A |
