@@ -113,6 +113,7 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | --- | :-: | :-: |
 | Breath of Fire III | ✓ | ✓ |
 | Breath of Fire IV | ✓ | ✓ |
+| Dragon Quest IV | Preview | N/A |
 
 </details>
 
