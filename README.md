@@ -27,6 +27,8 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | --- | :-: | :-: |
 | The Bard's Tale | Preview | N/A |
 | Wizardry: Proving Grounds of the Mad Overlord | Preview | N/A |
+| Wizardry: Knight of Diamonds | ✓ | N/A |
+| Wizardry III: Legacy of Llylgamyn | ✓ | N/A |
 | Might & Magic: Secret of the Inner Sanctum | Preview | N/A |
 
 </details>
@@ -112,7 +114,6 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | Mega Man Battle Network 6 Cybeast Gregar | ✓ | N/A | N/A | N/A | N/A | N/A |
 | The Legend of Zelda: The Minish Cap | ✓ | N/A | N/A | N/A | N/A | N/A |
 | The Legend of Zelda: A Link to the Past & Four Swords |  | N/A | N/A | N/A | N/A | N/A |
-| Classic NES Series: The Legend of Zelda |  | N/A | N/A | N/A | N/A | N/A |
 | Classic NES Series: Zelda II - The Adventure of Link |  | N/A | N/A | N/A | N/A | N/A |
 
 </details>
