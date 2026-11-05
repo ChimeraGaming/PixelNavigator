@@ -19,6 +19,19 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 ## Compatibility Chart
 
 <details>
+<summary><strong>Nintendo Entertainment System</strong></summary>
+
+<br>
+
+| Game | Map | BattleDex |
+| --- | :-: | :-: |
+| The Bard's Tale | Preview | N/A |
+| Wizardry: Proving Grounds of the Mad Overlord | Preview | N/A |
+| Might & Magic: Secret of the Inner Sanctum | Preview | N/A |
+
+</details>
+
+<details>
 <summary><strong>Game Boy / Game Boy Color</strong></summary>
 
 <br>
@@ -125,7 +138,7 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | Game | Map | BattleDex |
 | --- | :-: | :-: |
 | Breath of Fire: Dragon Quarter | ✓ | Preview |
-| Dragon Quest V | | |
+| Dragon Quest V | Preview | N/A |
 
 </details>
 
