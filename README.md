@@ -32,6 +32,7 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | Might & Magic: Secret of the Inner Sanctum | Preview | N/A |
 | Swords and Serpents | ✓ | N/A |
 | Pool of Radiance | ✓ | N/A |
+| Dragon Wars | ✓ | N/A |
 
 </details>
 
