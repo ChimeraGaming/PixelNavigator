@@ -25,14 +25,14 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 
 | Game | Map | BattleDex |
 | --- | :-: | :-: |
-| The Bard's Tale | Preview | N/A |
-| Wizardry: Proving Grounds of the Mad Overlord | Preview | N/A |
-| Wizardry: Knight of Diamonds | ✓ | N/A |
-| Wizardry III: Legacy of Llylgamyn | ✓ | N/A |
-| Might & Magic: Secret of the Inner Sanctum | Preview | N/A |
-| Swords and Serpents | ✓ | N/A |
-| Pool of Radiance | ✓ | N/A |
-| Dragon Wars | ✓ | N/A |
+| The Bard's Tale | ✓ | ✓ |
+| Wizardry: Proving Grounds of the Mad Overlord | ✓ | ✓ |
+| Wizardry: Knight of Diamonds | ✓ | ✓ |
+| Wizardry III: Legacy of Llylgamyn | ✓ | ✓ |
+| Might & Magic: Secret of the Inner Sanctum | ✓ | ✓ |
+| Swords and Serpents | ✓ | ✓ |
+| Pool of Radiance | ✓ | ✓ |
+| Dragon Wars | ✓ | ✓ |
 
 </details>
 
@@ -89,7 +89,7 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | Pokémon Team Rocket Edition (Dragonsden) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Mariomon | ✓ | ✓ | ✓ |  |  | ✓ |
 | Breath of Fire | ✓ | ✓ | N/A | N/A | N/A | N/A |
-| Breath of Fire II | ✓ |  | N/A | N/A | N/A | N/A |
+| Breath of Fire II | ✓ | ✓ | N/A | N/A | N/A | N/A |
 | Final Fantasy I & II: Dawn of Souls | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Final Fantasy IV Advance | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Final Fantasy V Advance | ✓ | N/A | N/A | N/A | N/A | N/A |
