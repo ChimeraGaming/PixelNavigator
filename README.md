@@ -87,10 +87,6 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | Pokémon Water Blue | ✓ | ✓ | ✓ |  | ✓ |  |
 | Pokémon Éclat Pourpre | ✓ | ✓ | ✓ | ✓ | ✓ |  |
 | Pokémon Team Rocket Edition (Dragonsden) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Rocket Strike |  |  |  |  |  |  |
-| Pokémon Rocket Science |  |  |  |  |  |  |
-| Pokémon Team Rocket: Jessie & James Edition |  |  |  |  |  |  |
-| Pokémon Fuligin |  |  |  |  |  |  |
 | Mariomon | ✓ | ✓ | ✓ |  |  | ✓ |
 | Breath of Fire | ✓ | ✓ | N/A | N/A | N/A | N/A |
 | Breath of Fire II | ✓ |  | N/A | N/A | N/A | N/A |
@@ -116,8 +112,7 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | Mega Man Battle Network 5 Team Colonel | ✓ | N/A | N/A | N/A | N/A | N/A |
 | Mega Man Battle Network 6 Cybeast Gregar | ✓ | N/A | N/A | N/A | N/A | N/A |
 | The Legend of Zelda: The Minish Cap | ✓ | N/A | N/A | N/A | N/A | N/A |
-| The Legend of Zelda: A Link to the Past & Four Swords |  | N/A | N/A | N/A | N/A | N/A |
-| Classic NES Series: Zelda II - The Adventure of Link |  | N/A | N/A | N/A | N/A | N/A |
+| The Legend of Zelda: A Link to the Past & Four Swords | ✓ | N/A | N/A | N/A | N/A | N/A |
 
 </details>
 
