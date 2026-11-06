@@ -30,6 +30,8 @@ Pixel Navigator expands that map and player tracking concept to supported ROMs a
 | Wizardry: Knight of Diamonds | ✓ | N/A |
 | Wizardry III: Legacy of Llylgamyn | ✓ | N/A |
 | Might & Magic: Secret of the Inner Sanctum | Preview | N/A |
+| Swords and Serpents | ✓ | N/A |
+| Pool of Radiance | ✓ | N/A |
 
 </details>
 
