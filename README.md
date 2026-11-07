@@ -150,9 +150,47 @@ N/A means the feature does not apply.
 
 ## References
 
-Format references include [BOF3 decompilation documentation](https://github.com/loopyd/bof3-decompilation) and [BOF source](https://github.com/Normmatt/bof). BOF3 boss sheets came from [The Spriters Resource](https://www.spriters-resource.com/playstation/breathoffire3/); route guidance references [DavidK5's walkthrough](https://gamefaqs.gamespot.com/ps/196817-breath-of-fire-iii/faqs/18685). BOF1 cover art came from [LaunchBox](https://gamesdb.launchbox-app.com/games/images/3174-breath-of-fire).
+<details>
+<summary><strong>Decomps</strong></summary>
 
-Golden Sun format reference: [Golden Sun decompilation](https://github.com/Coaltergeist/goldensun-decomp). Maps and sprites use original game data.
+<details>
+<summary><strong>Breath of Fire</strong></summary>
+
+- [Breath of Fire III decompilation documentation](https://github.com/loopyd/bof3-decompilation)
+- [Breath of Fire source](https://github.com/Normmatt/bof)
+- Breath of Fire III boss sheets: [The Spriters Resource](https://www.spriters-resource.com/playstation/breathoffire3/)
+- Breath of Fire III route guidance: [DavidK5's walkthrough](https://gamefaqs.gamespot.com/ps/196817-breath-of-fire-iii/faqs/18685)
+
+</details>
+
+<details>
+<summary><strong>Golden Sun</strong></summary>
+
+- [Golden Sun decompilation](https://github.com/Coaltergeist/goldensun-decomp)
+
+Maps and sprites use original game data.
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Other</strong></summary>
+
+<details>
+<summary><strong>Box art</strong></summary>
+
+Cover art references and resources:
+
+- [LaunchBox Games Database](https://gamesdb.launchbox-app.com/)
+- [MobyGames](https://www.mobygames.com/)
+- [TheGamesDB](https://thegamesdb.net/)
+- [The Cover Project](https://www.thecoverproject.net/)
+- [GameTDB](https://www.gametdb.com/)
+
+</details>
+
+</details>
 
 ## License and ownership
 
