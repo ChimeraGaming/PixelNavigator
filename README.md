@@ -6,8 +6,6 @@
 
 **Pixel Navigator** is an Android companion for emulated games, with live maps, player tracking and game-specific information for dual-screen handhelds.
 
-The project is based on ideas developed for [Fanmake Pokémon Maps](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android), with the goal of expanding the same general map and player tracking concept beyond RPG Maker XP games and into ROMs and other emulated games.
-
 # Fanmake Pokémon Maps
 
 [![Release v7.0](https://img.shields.io/badge/release-v7.0-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
