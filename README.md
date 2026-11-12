@@ -8,7 +8,11 @@
 
 The project is based on ideas developed for [Fanmake Pokémon Maps](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android), with the goal of expanding the same general map and player tracking concept beyond RPG Maker XP games and into ROMs and other emulated games.
 
-## Fanmake Pokémon Maps
+# Fanmake Pokémon Maps
+
+[![Release v7.0](https://img.shields.io/badge/release-v7.0-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
+![Android](https://img.shields.io/badge/Android-compatible-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+[![Star this repository](https://img.shields.io/github/stars/ChimeraGaming/FanmakePokemonMaps_Android?style=for-the-badge&logo=github&label=STAR%20THIS%20REPOSITORY&color=f5c542)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android)
 
 Pixel Navigator is inspired by my existing project, [Fanmake Pokémon Maps](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android).
 
